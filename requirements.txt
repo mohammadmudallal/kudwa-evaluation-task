@@ -1,0 +1,12 @@
+requests
+pandas
+numpy
+sqlalchemy
+pydantic
+mysqlclient
+apache-airflow
+tenacity
+fastapi
+uvicorn
+yfinance
+colorlog
