@@ -1,0 +1,269 @@
+2025-09-17 11:21:13,667 - INFO - ETL job started at 2025-09-17 11:21:13.667455
+2025-09-17 11:21:13,668 - INFO - [2025-09-17 11:21:13.668006] Starting Finnhub extraction...
+2025-09-17 11:21:13,668 - ERROR - Error extracting data from Finnhub: FinnhubExtractor.fetch_daily_stocks_candles() got an unexpected keyword argument 'end_date'
+2025-09-17 11:21:13,668 - INFO - [2025-09-17 11:21:13.668563] Starting PyFinance extraction...
+2025-09-17 11:21:13,669 - ERROR - [2025-09-17 11:21:13.669120] PyFinance extraction failed: 'Logger' object has no attribute 'error'
+2025-09-17 11:21:13,669 - INFO - ETL job completed in 0.002218 seconds
+2025-09-17 11:22:13,677 - INFO - ETL job started at 2025-09-17 11:22:13.677741
+2025-09-17 11:22:13,677 - INFO - [2025-09-17 11:22:13.677741] Starting Finnhub extraction...
+2025-09-17 11:22:13,678 - ERROR - Error extracting data from Finnhub: FinnhubExtractor.fetch_daily_stocks_candles() got an unexpected keyword argument 'end_date'
+2025-09-17 11:22:13,678 - INFO - [2025-09-17 11:22:13.678739] Starting PyFinance extraction...
+2025-09-17 11:22:13,679 - ERROR - [2025-09-17 11:22:13.679737] PyFinance extraction failed: 'Logger' object has no attribute 'error'
+2025-09-17 11:22:13,679 - INFO - ETL job completed in 0.001996 seconds
+2025-09-17 11:23:04,007 - INFO - ETL job started at 2025-09-17 11:23:04.007892
+2025-09-17 11:23:04,007 - INFO - [2025-09-17 11:23:04.007892] Starting Finnhub extraction...
+2025-09-17 11:23:04,008 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:23:04,941 - ERROR - Error fetching daily stock candles for AAPL: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-09-17 11:23:04,942 - ERROR - Error extracting data from Finnhub: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-09-17 11:23:04,942 - INFO - [2025-09-17 11:23:04.942226] Starting PyFinance extraction...
+2025-09-17 11:23:04,943 - ERROR - Failed to fetch data for dataset sp500: module 'pyfinance' has no attribute 'datasets'
+2025-09-17 11:23:04,944 - ERROR - [2025-09-17 11:23:04.944218] PyFinance extraction failed: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+2025-09-17 11:23:04,945 - INFO - ETL job completed in 0.937326 seconds
+2025-09-17 11:23:43,390 - INFO - ETL job started at 2025-09-17 11:23:43.390725
+2025-09-17 11:23:43,391 - INFO - [2025-09-17 11:23:43.391574] Starting Finnhub extraction...
+2025-09-17 11:23:43,391 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:23:43,847 - ERROR - Error fetching daily stock candles for AAPL: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-09-17 11:23:43,848 - ERROR - Error extracting data from Finnhub: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-09-17 11:23:43,848 - INFO - [2025-09-17 11:23:43.848549] Starting PyFinance extraction...
+2025-09-17 11:23:43,849 - ERROR - Failed to fetch data for dataset sp500: module 'pyfinance' has no attribute 'datasets'
+2025-09-17 11:23:43,851 - ERROR - [2025-09-17 11:23:43.851584] PyFinance extraction failed: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+2025-09-17 11:23:43,851 - INFO - ETL job completed in 0.460859 seconds
+2025-09-17 11:26:34,658 - INFO - ETL job started at 2025-09-17 11:26:34.658382
+2025-09-17 11:26:34,658 - INFO - [2025-09-17 11:26:34.658965] Starting Finnhub extraction...
+2025-09-17 11:26:34,658 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:26:35,675 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:26:35,676 - ERROR - Error extracting data from Finnhub: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+2025-09-17 11:26:35,677 - INFO - [2025-09-17 11:26:35.677051] Starting PyFinance extraction...
+2025-09-17 11:26:35,677 - ERROR - Failed to fetch data for dataset sp500: module 'pyfinance' has no attribute 'datasets'
+2025-09-17 11:26:35,679 - ERROR - [2025-09-17 11:26:35.679050] PyFinance extraction failed: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+2025-09-17 11:26:35,679 - INFO - ETL job completed in 1.020668 seconds
+2025-09-17 11:27:45,973 - INFO - ETL job started at 2025-09-17 11:27:45.973024
+2025-09-17 11:27:45,973 - INFO - [2025-09-17 11:27:45.973779] Starting Finnhub extraction...
+2025-09-17 11:27:45,973 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:27:46,980 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:27:46,981 - ERROR - Error extracting data from Finnhub: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+2025-09-17 11:27:46,982 - INFO - [2025-09-17 11:27:46.982485] Starting PyFinance extraction...
+2025-09-17 11:27:46,982 - ERROR - Failed to fetch data for dataset sp500: module 'pyfinance' has no attribute 'datasets'
+2025-09-17 11:27:46,984 - ERROR - [2025-09-17 11:27:46.984499] PyFinance extraction failed: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+2025-09-17 11:27:46,984 - INFO - ETL job completed in 1.011475 seconds
+2025-09-17 11:28:45,983 - INFO - ETL job started at 2025-09-17 11:28:45.983973
+2025-09-17 11:28:45,983 - INFO - [2025-09-17 11:28:45.983973] Starting Finnhub extraction...
+2025-09-17 11:28:45,984 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:28:46,690 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:28:46,691 - ERROR - Error extracting data from Finnhub: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+2025-09-17 11:28:46,692 - INFO - [2025-09-17 11:28:46.692581] Starting PyFinance extraction...
+2025-09-17 11:28:46,693 - ERROR - Failed to fetch data for dataset sp500: module 'pyfinance' has no attribute 'datasets'
+2025-09-17 11:28:46,694 - ERROR - [2025-09-17 11:28:46.694588] PyFinance extraction failed: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+2025-09-17 11:28:46,695 - INFO - ETL job completed in 0.711609 seconds
+2025-09-17 11:29:10,031 - INFO - ETL job started at 2025-09-17 11:29:10.031566
+2025-09-17 11:29:10,032 - INFO - [2025-09-17 11:29:10.032540] Starting Finnhub extraction...
+2025-09-17 11:29:10,032 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:29:11,160 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:29:11,161 - ERROR - Error extracting data from Finnhub: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+2025-09-17 11:29:11,161 - INFO - [2025-09-17 11:29:11.161153] Starting PyFinance extraction...
+2025-09-17 11:29:11,162 - ERROR - Failed to fetch data for dataset sp500: module 'pyfinance' has no attribute 'datasets'
+2025-09-17 11:29:43,912 - INFO - ETL job started at 2025-09-17 11:29:43.912766
+2025-09-17 11:29:43,914 - INFO - [2025-09-17 11:29:43.914131] Starting Finnhub extraction...
+2025-09-17 11:29:43,914 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:29:44,920 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:29:44,921 - ERROR - Error extracting data from Finnhub: descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+2025-09-17 11:29:44,922 - INFO - [2025-09-17 11:29:44.922017] Starting PyFinance extraction...
+2025-09-17 11:29:44,922 - ERROR - Failed to fetch data for dataset sp500: module 'pyfinance' has no attribute 'datasets'
+2025-09-17 11:30:21,117 - INFO - ETL job started at 2025-09-17 11:30:21.117967
+2025-09-17 11:30:21,117 - INFO - [2025-09-17 11:30:21.117967] Starting Finnhub extraction...
+2025-09-17 11:30:21,118 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:30:22,130 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:30:22,135 - ERROR - Error extracting data from Finnhub: [Errno 22] Invalid argument: 'artifacts\\finnhub\\AAPL_2025-09-17 11:30:22.csv'
+2025-09-17 11:30:22,136 - INFO - [2025-09-17 11:30:22.136102] Starting PyFinance extraction...
+2025-09-17 11:30:22,137 - ERROR - Failed to fetch data for dataset sp500: module 'pyfinance' has no attribute 'datasets'
+2025-09-17 11:31:16,747 - INFO - ETL job started at 2025-09-17 11:31:16.746154
+2025-09-17 11:31:16,747 - INFO - [2025-09-17 11:31:16.747749] Starting Finnhub extraction...
+2025-09-17 11:31:16,747 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:31:17,759 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:31:17,765 - ERROR - Error extracting data from Finnhub: [Errno 22] Invalid argument: 'artifacts\\finnhub\\AAPL_2025-09-17 11:31:17.csv'
+2025-09-17 11:31:17,766 - INFO - [2025-09-17 11:31:17.766224] Starting PyFinance extraction...
+2025-09-17 11:31:17,767 - ERROR - Failed to fetch data for dataset sp500: module 'pyfinance' has no attribute 'datasets'
+2025-09-17 11:31:39,869 - INFO - ETL job started at 2025-09-17 11:31:39.869898
+2025-09-17 11:31:39,869 - INFO - [2025-09-17 11:31:39.869898] Starting Finnhub extraction...
+2025-09-17 11:31:39,870 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:31:40,886 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:31:40,890 - ERROR - Error extracting data from Finnhub: [Errno 22] Invalid argument: 'artifacts\\finnhub\\AAPL_2025-09-17 11:31:40.csv'
+2025-09-17 11:31:40,891 - INFO - [2025-09-17 11:31:40.891141] Starting PyFinance extraction...
+2025-09-17 11:31:40,891 - ERROR - Failed to fetch data for dataset sp500: module 'pyfinance' has no attribute 'datasets'
+2025-09-17 11:31:40,894 - INFO - Error extracting data from PyFinance: [Errno 22] Invalid argument: 'artifacts\\pyfinance\\sp500_2025-09-17 11:31:40.csv'
+2025-09-17 11:31:40,894 - INFO - ETL job completed in 1.024245 seconds
+2025-09-17 11:34:44,633 - INFO - ETL job started at 2025-09-17 11:34:44.633286
+2025-09-17 11:34:44,634 - INFO - [2025-09-17 11:34:44.633286] Starting Finnhub extraction...
+2025-09-17 11:34:44,634 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:34:46,686 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:34:46,691 - ERROR - Error extracting data from Finnhub: [Errno 22] Invalid argument: 'artifacts\\finnhub\\AAPL_2025-09-17 11:34:46.csv'
+2025-09-17 11:34:46,692 - INFO - [2025-09-17 11:34:46.691990] Starting PyFinance extraction...
+2025-09-17 11:34:46,692 - INFO - Error extracting data from PyFinance: PyFinanceExtractor.fetch_data() got an unexpected keyword argument 'dataset_name'
+2025-09-17 11:34:46,694 - INFO - ETL job completed in 2.060716 seconds
+2025-09-17 11:35:54,463 - INFO - ETL job started at 2025-09-17 11:35:54.463739
+2025-09-17 11:35:54,464 - INFO - [2025-09-17 11:35:54.464736] Starting Finnhub extraction...
+2025-09-17 11:35:54,464 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:35:55,468 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:35:55,492 - INFO - Finnhub CSV written to artifacts\finnhub\AAPL_2025-09-17_11-35-55.csv
+2025-09-17 11:35:55,493 - INFO - [2025-09-17 11:35:55.493773] Starting PyFinance extraction...
+2025-09-17 11:36:00,925 - INFO - Successfully fetched data for ^GSPC
+2025-09-17 11:36:00,929 - INFO - PyFinance CSV saved
+2025-09-17 11:36:00,930 - INFO - ETL job completed in 6.466689 seconds
+2025-09-17 11:36:54,468 - INFO - ETL job started at 2025-09-17 11:36:54.468787
+2025-09-17 11:36:54,469 - INFO - [2025-09-17 11:36:54.469828] Starting Finnhub extraction...
+2025-09-17 11:36:54,469 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:36:55,207 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:36:55,225 - INFO - Finnhub CSV written to artifacts\finnhub\AAPL_2025-09-17_11-36-55.csv
+2025-09-17 11:36:55,226 - INFO - [2025-09-17 11:36:55.226620] Starting PyFinance extraction...
+2025-09-17 11:36:55,788 - INFO - Successfully fetched data for ^GSPC
+2025-09-17 11:36:55,792 - INFO - PyFinance CSV saved
+2025-09-17 11:36:55,792 - INFO - ETL job completed in 1.323481 seconds
+2025-09-17 11:41:37,858 - INFO - ETL job started at 2025-09-17 11:41:37.858075
+2025-09-17 11:41:37,858 - INFO - [2025-09-17 11:41:37.858626] Starting Finnhub extraction...
+2025-09-17 11:41:37,858 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:41:38,952 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:41:39,012 - INFO - Finnhub CSV written to artifacts\finnhub\AAPL_2025-09-17_11-41-38.json
+2025-09-17 11:41:39,013 - INFO - [2025-09-17 11:41:39.013863] Starting PyFinance extraction...
+2025-09-17 11:41:40,143 - INFO - Successfully fetched data for ^GSPC
+2025-09-17 11:41:40,150 - INFO - PyFinance CSV saved
+2025-09-17 11:41:40,151 - INFO - ETL job completed in 2.29383 seconds
+2025-09-17 11:42:37,872 - INFO - ETL job started at 2025-09-17 11:42:37.872178
+2025-09-17 11:42:37,872 - INFO - [2025-09-17 11:42:37.872178] Starting Finnhub extraction...
+2025-09-17 11:42:37,873 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:42:38,602 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:42:38,612 - INFO - Finnhub CSV written to artifacts\finnhub\AAPL_2025-09-17_11-42-38.json
+2025-09-17 11:42:38,613 - INFO - [2025-09-17 11:42:38.613242] Starting PyFinance extraction...
+2025-09-17 11:42:38,982 - INFO - Successfully fetched data for ^GSPC
+2025-09-17 11:42:38,987 - INFO - PyFinance CSV saved
+2025-09-17 11:42:38,988 - INFO - ETL job completed in 1.116001 seconds
+2025-09-17 11:43:37,879 - INFO - ETL job started at 2025-09-17 11:43:37.879216
+2025-09-17 11:43:37,879 - INFO - [2025-09-17 11:43:37.879216] Starting Finnhub extraction...
+2025-09-17 11:43:37,879 - INFO - Fetching daily stock candles for AAPL from 2023-01-01 to 2023-10-01
+2025-09-17 11:43:38,573 - INFO - Successfully extracted data from Finnhub
+2025-09-17 11:43:38,583 - INFO - Finnhub CSV written to artifacts\finnhub\AAPL_2025-09-17_11-43-38.json
+2025-09-17 11:43:38,584 - INFO - [2025-09-17 11:43:38.584968] Starting PyFinance extraction...
+2025-09-17 11:43:38,943 - INFO - Successfully fetched data for ^GSPC
+2025-09-17 11:43:38,950 - INFO - PyFinance CSV saved
+2025-09-17 11:43:38,951 - INFO - ETL job completed in 1.072338 seconds
+2025-09-17 12:16:52,749 - INFO - ETL job started at 2025-09-17 12:16:52.749706
+2025-09-17 12:16:52,750 - INFO - [2025-09-17 12:16:52.750476] Starting Finnhub extraction...
+2025-09-17 12:16:52,750 - ERROR - Error extracting data from Finnhub: FinnhubExtractor.fetch_economic_data() got an unexpected keyword argument 'symbol'
+2025-09-17 12:16:52,750 - INFO - ETL job completed in 0.00077 seconds
+2025-09-17 12:17:13,043 - INFO - ETL job started at 2025-09-17 12:17:13.043502
+2025-09-17 12:17:13,044 - INFO - [2025-09-17 12:17:13.044311] Starting Finnhub extraction...
+2025-09-17 12:17:13,044 - INFO - Fetching economic data for MA-USA-656880
+2025-09-17 12:17:13,633 - ERROR - Error fetching economic data for MA-USA-656880: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-09-17 12:17:13,634 - ERROR - Error extracting data from Finnhub: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-09-17 12:17:13,634 - INFO - ETL job completed in 0.590749 seconds
+2025-09-17 12:18:10,522 - INFO - ETL job started at 2025-09-17 12:18:10.522707
+2025-09-17 12:18:10,523 - INFO - [2025-09-17 12:18:10.523881] Starting Finnhub extraction...
+2025-09-17 12:18:10,523 - INFO - Fetching economic data for USGDP
+2025-09-17 12:18:10,991 - ERROR - Error fetching economic data for USGDP: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-09-17 12:18:10,992 - ERROR - Error extracting data from Finnhub: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-09-17 12:18:10,992 - INFO - ETL job completed in 0.469814 seconds
+2025-09-17 12:20:04,011 - INFO - ETL job started at 2025-09-17 12:20:04.011935
+2025-09-17 12:20:04,013 - INFO - [2025-09-17 12:20:04.013246] Starting Finnhub extraction...
+2025-09-17 12:20:04,013 - INFO - Fetching forex rates for USD
+2025-09-17 12:20:04,013 - ERROR - Error fetching forex rates for USD: Client.forex_rates() takes 1 positional argument but 2 were given
+2025-09-17 12:20:04,014 - ERROR - Error extracting data from Finnhub: Client.forex_rates() takes 1 positional argument but 2 were given
+2025-09-17 12:20:04,014 - INFO - ETL job completed in 0.002348 seconds
+2025-09-17 12:21:12,444 - INFO - ETL job started at 2025-09-17 12:21:12.444722
+2025-09-17 12:21:12,444 - INFO - [2025-09-17 12:21:12.444722] Starting Finnhub extraction...
+2025-09-17 12:21:12,445 - ERROR - Error extracting data from Finnhub: FinnhubExtractor.fetch_forex_rates() missing 1 required positional argument: 'currency'
+2025-09-17 12:21:12,445 - INFO - ETL job completed in 0.001001 seconds
+2025-09-17 12:22:14,278 - INFO - ETL job started at 2025-09-17 12:22:14.278051
+2025-09-17 12:22:14,279 - INFO - [2025-09-17 12:22:14.279050] Starting Finnhub extraction...
+2025-09-17 12:22:14,279 - INFO - Fetching forex rates
+2025-09-17 12:22:14,843 - ERROR - Error fetching forex rates: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-09-17 12:22:14,843 - ERROR - Error extracting data from Finnhub: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-09-17 12:22:14,843 - INFO - ETL job completed in 0.565721 seconds
+2025-09-17 13:17:46,684 - INFO - ETL job started at 2025-09-17 13:17:46.684502
+2025-09-17 13:17:46,684 - INFO - [2025-09-17 13:17:46.684502] Starting AV extraction...
+2025-09-17 13:17:46,684 - ERROR - Error extracting data from Finnhub: AlphaVintageExtractor.fetch_exchange_rate() missing 2 required positional arguments: 'from_currency' and 'to_currency'
+2025-09-17 13:17:46,684 - INFO - ETL job completed in 0.0 seconds
+2025-09-17 13:18:38,070 - INFO - ETL job started at 2025-09-17 13:18:38.070009
+2025-09-17 13:18:38,071 - INFO - [2025-09-17 13:18:38.071011] Starting AV extraction...
+2025-09-17 13:18:38,071 - INFO - Fetching exchange rate from USD to EUR
+2025-09-17 13:18:38,736 - ERROR - Error fetching exchange rate USD to EUR: Must pass 2-d input. shape=(1, 1, 9)
+2025-09-17 13:18:38,737 - ERROR - Error extracting data from Finnhub: Must pass 2-d input. shape=(1, 1, 9)
+2025-09-17 13:18:38,737 - INFO - ETL job completed in 0.667325 seconds
+2025-09-17 13:22:38,595 - INFO - ETL job started at 2025-09-17 13:22:38.595294
+2025-09-17 13:22:38,595 - INFO - [2025-09-17 13:22:38.595294] Starting PyFinance FX extraction...
+2025-09-17 13:22:39,777 - INFO - Fetched EURUSD=X rate: Ticker
+EURUSD=X    1.183852
+Name: 2025-09-17 00:00:00, dtype: float64
+2025-09-17 13:22:40,149 - INFO - Fetched GBPUSD=X rate: Ticker
+GBPUSD=X    1.364126
+Name: 2025-09-17 00:00:00, dtype: float64
+2025-09-17 13:22:40,550 - INFO - Fetched JPY=X rate: Ticker
+JPY=X    146.341995
+Name: 2025-09-17 00:00:00, dtype: float64
+2025-09-17 13:22:40,986 - INFO - Fetched AUDUSD=X rate: Ticker
+AUDUSD=X    0.667156
+Name: 2025-09-17 00:00:00, dtype: float64
+2025-09-17 13:22:41,376 - INFO - Fetched CADUSD=X rate: Ticker
+CADUSD=X    0.726839
+Name: 2025-09-17 00:00:00, dtype: float64
+2025-09-17 13:22:41,796 - INFO - Fetched CHFUSD=X rate: Ticker
+CHFUSD=X    1.270406
+Name: 2025-09-17 00:00:00, dtype: float64
+2025-09-17 13:22:42,199 - INFO - Fetched NZDUSD=X rate: Ticker
+NZDUSD=X    0.597443
+Name: 2025-09-17 00:00:00, dtype: float64
+2025-09-17 13:22:42,209 - INFO - PyFinance FX CSV saved to artifacts\pyfinance\FX_Rates_2025-09-17_13-22-42.json
+2025-09-17 13:22:42,209 - INFO - ETL job completed in 3.614654 seconds
+2025-09-17 13:28:22,353 - INFO - ETL job started at 2025-09-17 13:28:22.353368
+2025-09-17 13:28:22,354 - INFO - [2025-09-17 13:28:22.354021] Starting Finnhub news extraction...
+2025-09-17 13:28:22,354 - INFO - Fetching company news for AAPL from 2025-09-10 to 2025-09-17
+2025-09-17 13:28:24,186 - INFO - Successfully extracted news data from Finnhub
+2025-09-17 13:28:24,196 - INFO - Finnhub News CSV written to artifacts\finnhub\AAPL_News_2025-09-17_13-28-24.json
+2025-09-17 13:28:24,196 - INFO - ETL job completed in 1.842974 seconds
+2025-09-17 14:45:49,983 - INFO - ETL job started at 2025-09-17 14:45:49.983778
+2025-09-17 14:45:49,984 - INFO - [2025-09-17 14:45:49.984775] Starting Finnhub extraction...
+2025-09-17 14:45:49,984 - INFO - Fetching daily stock candles for AAPL
+2025-09-17 14:45:51,624 - INFO - ETL job completed in 1.641067 seconds
+2025-09-17 14:46:16,947 - INFO - ETL job started at 2025-09-17 14:46:16.947292
+2025-09-17 14:46:16,948 - INFO - [2025-09-17 14:46:16.947292] Starting Finnhub extraction...
+2025-09-17 14:46:16,948 - INFO - Fetching daily stock candles for AAPL
+2025-09-17 14:46:18,285 - INFO - ETL job completed in 1.338572 seconds
+2025-09-17 14:47:03,394 - INFO - ETL job started at 2025-09-17 14:47:03.394429
+2025-09-17 14:47:03,395 - INFO - [2025-09-17 14:47:03.395429] Starting Finnhub extraction...
+2025-09-17 14:47:03,395 - INFO - Fetching daily stock candles for AAPL
+2025-09-17 14:47:04,631 - ERROR - Error extracting data from Finnhub: 0
+2025-09-17 14:47:04,632 - INFO - ETL job completed in 1.238017 seconds
+2025-09-17 14:48:35,879 - INFO - ETL job started at 2025-09-17 14:48:35.879847
+2025-09-17 14:48:35,880 - INFO - [2025-09-17 14:48:35.880724] Starting Finnhub extraction...
+2025-09-17 14:48:35,881 - INFO - Fetching daily stock candles for AAPL
+2025-09-17 14:48:37,207 - INFO - ETL job completed in 1.32734 seconds
+2025-09-17 15:29:29,240 - INFO - ETL job started at 2025-09-17 15:29:29.240343
+2025-09-17 15:29:29,241 - INFO - [2025-09-17 15:29:29.241343] Starting Finnhub extraction...
+2025-09-17 15:29:29,260 - INFO - Fetching daily stock candles for AAPL
+2025-09-17 15:29:30,470 - ERROR - Error extracting data from Finnhub: 'metric' is an invalid keyword argument for Metric
+2025-09-17 15:29:30,471 - INFO - ETL job completed in 1.230682 seconds
+2025-09-17 15:30:34,251 - INFO - ETL job started at 2025-09-17 15:30:34.251711
+2025-09-17 15:30:34,251 - INFO - [2025-09-17 15:30:34.251711] Starting Finnhub extraction...
+2025-09-17 15:30:34,270 - INFO - Fetching daily stock candles for AAPL
+2025-09-17 15:30:35,308 - ERROR - Error loading data to destination: (pymysql.err.DataError) (1265, "Data truncated for column 'metric_value' at row 1")
+[SQL: INSERT INTO metrics (company_id, metric_type, metric_value, created_at, updated_at) VALUES (%(company_id)s, %(metric_type)s, %(metric_value)s, now(), now())]
+[parameters: [{'company_id': 1, 'metric_type': '10 Day Average Trading Volume', 'metric_value': 57.97553}, {'company_id': 1, 'metric_type': '13 Week Price Return Daily', 'metric_value': 21.2268}, {'company_id': 1, 'metric_type': '26 Week Price Return Daily', 'metric_value': 9.7567}, {'company_id': 1, 'metric_type': '3 Month ADReturn Std', 'metric_value': 23.179054}, {'company_id': 1, 'metric_type': '3 Month Average Trading Volume', 'metric_value': 54.12286}, {'company_id': 1, 'metric_type': '52 Week High', 'metric_value': 260.1}, {'company_id': 1, 'metric_type': '52 Week High Date', 'metric_value': '2024-12-26'}, {'company_id': 1, 'metric_type': '52 Week Low', 'metric_value': 169.2101}  ... displaying 10 of 131 total bound parameter sets ...  {'company_id': 1, 'metric_type': 'total Debt/total Equity Quarterly', 'metric_value': 1.5449}, {'company_id': 1, 'metric_type': 'year To Date Price Return Daily', 'metric_value': -4.8998}]]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-09-17 15:30:35,309 - ERROR - Error extracting data from Finnhub: (pymysql.err.DataError) (1265, "Data truncated for column 'metric_value' at row 1")
+[SQL: INSERT INTO metrics (company_id, metric_type, metric_value, created_at, updated_at) VALUES (%(company_id)s, %(metric_type)s, %(metric_value)s, now(), now())]
+[parameters: [{'company_id': 1, 'metric_type': '10 Day Average Trading Volume', 'metric_value': 57.97553}, {'company_id': 1, 'metric_type': '13 Week Price Return Daily', 'metric_value': 21.2268}, {'company_id': 1, 'metric_type': '26 Week Price Return Daily', 'metric_value': 9.7567}, {'company_id': 1, 'metric_type': '3 Month ADReturn Std', 'metric_value': 23.179054}, {'company_id': 1, 'metric_type': '3 Month Average Trading Volume', 'metric_value': 54.12286}, {'company_id': 1, 'metric_type': '52 Week High', 'metric_value': 260.1}, {'company_id': 1, 'metric_type': '52 Week High Date', 'metric_value': '2024-12-26'}, {'company_id': 1, 'metric_type': '52 Week Low', 'metric_value': 169.2101}  ... displaying 10 of 131 total bound parameter sets ...  {'company_id': 1, 'metric_type': 'total Debt/total Equity Quarterly', 'metric_value': 1.5449}, {'company_id': 1, 'metric_type': 'year To Date Price Return Daily', 'metric_value': -4.8998}]]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-09-17 15:30:35,310 - INFO - ETL job completed in 1.059168 seconds
+2025-09-17 15:34:10,601 - INFO - ETL job started at 2025-09-17 15:34:10.601827
+2025-09-17 15:34:10,602 - INFO - [2025-09-17 15:34:10.602826] Starting Finnhub extraction...
+2025-09-17 15:34:10,623 - INFO - Fetching daily stock candles for AAPL
+2025-09-17 15:34:11,771 - INFO - Successfully inserted 131 records into Metrics table.
+2025-09-17 15:34:11,772 - INFO - ETL job completed in 1.170604 seconds
+2025-09-17 15:44:21,695 - INFO - ETL job started at 2025-09-17 15:44:21.695675
+2025-09-17 15:44:21,696 - INFO - [2025-09-17 15:44:21.696677] Starting Finnhub extraction...
+2025-09-17 15:44:21,715 - INFO - Fetching daily stock candles for AAPL
+2025-09-17 15:44:22,948 - INFO - Successfully inserted 131 records into Metrics table.
+2025-09-17 15:44:22,949 - INFO - ETL job completed in 1.253701 seconds
+2025-09-17 15:44:51,764 - INFO - ETL job started at 2025-09-17 15:44:51.764423
+2025-09-17 15:44:51,765 - INFO - [2025-09-17 15:44:51.765422] Starting Finnhub extraction...
+2025-09-17 15:44:51,784 - INFO - Fetching daily stock candles for AAPL
+2025-09-17 15:44:52,893 - INFO - Successfully inserted 131 records into Metrics table.
+2025-09-17 15:44:52,894 - INFO - ETL job completed in 1.129887 seconds

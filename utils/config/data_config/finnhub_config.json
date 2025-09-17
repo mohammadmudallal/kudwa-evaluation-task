@@ -1,0 +1,24 @@
+{
+    "company_basic_financials": {
+        "acronym_map": {
+            "ttm": "TTM",
+            "ev": "EV",
+            "ebitda": "EBITDA",
+            "ytd": "YTD",
+            "yoy": "YoY",
+            "qoq": "QoQ",
+            "cagr": "CAGR",
+            "pb": "PB",
+            "pe": "PE",
+            "ps": "PS",
+            "roa": "ROA",
+            "roe": "ROE",
+            "roic": "ROIC",
+            "eps": "EPS",
+            "ad": "AD",
+            "mtd": "MTD",
+            "mom": "MoM",
+            "rfy": "RFY"
+        }
+    }
+}
