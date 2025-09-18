@@ -675,3 +675,19 @@ Name: 2025-09-18 00:00:00, dtype: float64
 2025-09-18 19:29:51,959 - INFO - [2025-09-18 19:29:51.959123] Starting PyFinance FX extraction...
 2025-09-18 19:29:52,483 - INFO - Inserted 4 exchange rates from TwelveData
 2025-09-18 19:29:52,484 - INFO - ETL job completed in 0.526665 seconds
+2025-09-18 19:35:35,128 - INFO - [2025-09-18 19:35:35.128887] Starting PyFinance FX extraction...
+2025-09-18 19:35:35,788 - INFO - Inserted 4 exchange rates from TwelveData
+2025-09-18 19:35:35,789 - INFO - [2025-09-18 19:35:35.789086] Starting Finnhub extraction...
+2025-09-18 19:35:35,792 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 19:35:37,501 - INFO - Truncated Metrics table, deleted 0 records.
+2025-09-18 19:35:41,773 - INFO - Successfully inserted 131 records into DB.
+2025-09-18 19:35:41,774 - INFO - Successfully inserted 0 records into DB.
+2025-09-18 19:35:41,774 - INFO - Successfully inserted 0 records into DB.
+2025-09-18 19:37:17,839 - INFO - [2025-09-18 19:37:17.839296] Starting PyFinance FX extraction...
+2025-09-18 19:37:18,374 - INFO - Inserted 4 exchange rates from TwelveData
+2025-09-18 19:37:18,375 - INFO - [2025-09-18 19:37:18.375368] Starting Finnhub extraction...
+2025-09-18 19:37:18,377 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 19:37:19,546 - INFO - Truncated Metrics table, deleted 0 records.
+2025-09-18 19:37:21,927 - INFO - Successfully inserted 131 records into DB.
+2025-09-18 19:37:25,886 - INFO - Successfully inserted 4734 records into DB.
+2025-09-18 19:37:26,864 - INFO - Successfully inserted 1189 records into DB.

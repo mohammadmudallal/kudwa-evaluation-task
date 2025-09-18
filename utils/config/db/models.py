@@ -94,7 +94,7 @@ class ExchangeRates(Base):
     updated_at = Column(DateTime, default=func.now(), onupdate=func.now(), nullable=False)
     
 class ExchangeRatesArchive(Base):
-    __tablename__ = "exchange_rates_archive"
+    __tablename__ = "exchange_rates_ar"
 
     id = Column(Integer, primary_key=True)
     symbol = Column(String(50), nullable=False)

@@ -45,14 +45,6 @@ custom_cache = CustomCache()
 Session = sessionmaker(bind=engine)
 session = Session()
 
-def save_finnhub_data(data, file_path="finnhub_data.json"):
-    try:
-        with open(file_path, "w") as f:
-            json.dump(data, f)  # pretty print with indent
-        print(f"Data saved to {file_path}")
-    except Exception as e:
-        print(f"Error saving data: {e}")
-        
 def map_record_to_orm(record, is_annual=True):
     if is_annual:
         return {
@@ -160,9 +152,9 @@ def extract_exchange_rates_forex():
     except Exception as e:
         logger.log_error(f"Error extracting FX rates from PyFinance: {e}")
 
-schedule.every().day.at("00:00").do(extract_finnhub_news) 
-schedule.every(5).minutes.do(extract_exchange_rates_forex) 
-schedule.every(5).minutes.do(extract_company_basic_financials) 
+# schedule.every().day.at("00:00").do(extract_finnhub_news) 
+schedule.every(1).minutes.do(extract_exchange_rates_forex) 
+schedule.every(1).minutes.do(extract_company_basic_financials) 
 
 def run_scheduler():
     while True:
