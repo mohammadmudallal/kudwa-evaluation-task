@@ -25,9 +25,7 @@ class FinnhubExtractor:
         try:
             self.logger.log_info(f"Fetching company news for {symbol} from {from_date} to {to_date}")
             news = self.client.company_news(symbol, from_date, to_date)
-            df = pd.DataFrame(news)
-            df['symbol'] = symbol
-            return df
+            return news
         except Exception as e:
             self.logger.log_error(f"Error fetching company news for {symbol}: {e}")
             raise

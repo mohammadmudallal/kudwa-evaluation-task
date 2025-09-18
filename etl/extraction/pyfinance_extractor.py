@@ -9,30 +9,37 @@ class PyFinanceExtractor:
     def fetch_data(self, ticker: str) -> pd.DataFrame:
         try:
             df = yf.download(ticker)
-            df['source'] = 'yfinance'
             self.logger.log_info(f"Successfully fetched data for {ticker}")
             return df
         except Exception as e:
             self.logger.log_error(f"Failed to fetch data for {ticker}: {e}")
             return pd.DataFrame()
         
-    def fetch_fx_rates(self, pairs: list[str] = None) -> pd.DataFrame:
+    def fetch_fx_rates(self, pairs=None):
         if pairs is None:
-            # default popular pairs
             pairs = ["EURUSD=X", "GBPUSD=X", "JPY=X", "AUDUSD=X", "CADUSD=X", "CHFUSD=X", "NZDUSD=X"]
-        
-        data = []
+
+        columns = ["Ticker", "Date", "Open", "High", "Low", "Close", "Volume"]
+        records = []
+
         for pair in pairs:
             try:
                 df = yf.download(pair, period="1d")
-                if not df.empty:
-                    data.append({
-                        "CurrencyPair": pair.replace("=X", ""),
-                        "Rate": df['Close'].iloc[-1],
-                        "Date": df.index[-1].strftime("%Y-%m-%d %H:%M:%S")
-                    })
-                    self.logger.log_info(f"Fetched {pair} rate: {df['Close'].iloc[-1]}")
+                if df.empty:
+                    continue
+                df.reset_index(inplace=True)
+                for _, row in df.iterrows():
+                    record = {
+                        "Ticker": pair,
+                        "Date": row["Date"],
+                        "Open": row["Open"],
+                        "High": row["High"],
+                        "Low": row["Low"],
+                        "Close": row["Close"],
+                        "Volume": row["Volume"]
+                    }
+                    records.append(record)
             except Exception as e:
-                self.logger.log_error(f"Error fetching {pair}: {e}")
-        
-        return pd.DataFrame(data)
+                print(f"Error fetching {pair}: {e}")
+
+        return pd.DataFrame(records, columns=columns)

@@ -14,9 +14,9 @@ class FinnhubLoader:
     def load_data(self, data):
         session: Session = self.session()
         try:
-            session.bulk_save_objects(data)
+            session.add_all(data)  # <-- use add_all instead of bulk_save_objects
             session.commit()
-            self.logger.log_info(f"Successfully inserted {len(data)} records into Metrics table.")
+            self.logger.log_info(f"Successfully inserted {len(data)} records into DB.")
         except SQLAlchemyError as e:
             session.rollback()
             self.logger.log_error(f"Error loading data to destination: {e}")
@@ -24,6 +24,5 @@ class FinnhubLoader:
         except Exception as e:
             self.logger.log_error(f"Error loading data to destination: {e}")
             raise
-        
         finally:
             session.close()

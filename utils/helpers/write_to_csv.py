@@ -10,8 +10,8 @@ def write_to_csv(df: pd.DataFrame, source: str, prefix: str):
     outdir.mkdir(parents=True, exist_ok=True)
     
     ts = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')  # replace ":" with "-"
-    filename = outdir / f"{prefix}_{ts}.json"
+    filename = outdir / f"{prefix}_{ts}.csv"
     
-    df.to_json(filename, orient='records')
+    df.to_csv(filename)
     logger.log_info(f"✅ Data written to {filename}")
     return str(filename)

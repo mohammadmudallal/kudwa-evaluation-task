@@ -1,0 +1,677 @@
+2025-09-18 10:55:10,317 - INFO - ETL job started at 2025-09-18 10:55:10.317483
+2025-09-18 10:55:10,317 - INFO - [2025-09-18 10:55:10.317483] Starting Finnhub extraction...
+2025-09-18 10:55:10,358 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 10:55:11,763 - ERROR - Error extracting data from Finnhub: All arrays must be of the same length
+2025-09-18 10:55:11,764 - INFO - ETL job completed in 1.447434 seconds
+2025-09-18 10:55:47,995 - INFO - ETL job started at 2025-09-18 10:55:47.995700
+2025-09-18 10:55:47,995 - INFO - [2025-09-18 10:55:47.995700] Starting Finnhub extraction...
+2025-09-18 10:55:48,015 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 10:55:50,115 - ERROR - Error extracting data from Finnhub: FinnhubTransformator.transform_series() missing 1 required positional argument: 'company_id'
+2025-09-18 10:55:50,116 - INFO - ETL job completed in 2.120766 seconds
+2025-09-18 10:56:03,423 - INFO - ETL job started at 2025-09-18 10:56:03.423313
+2025-09-18 10:56:03,424 - INFO - [2025-09-18 10:56:03.424313] Starting Finnhub extraction...
+2025-09-18 10:56:03,442 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 10:56:07,000 - ERROR - Error extracting data from Finnhub: All arrays must be of the same length
+2025-09-18 10:56:07,001 - INFO - ETL job completed in 3.578268 seconds
+2025-09-18 10:56:30,201 - INFO - ETL job started at 2025-09-18 10:56:30.201161
+2025-09-18 10:56:30,201 - INFO - [2025-09-18 10:56:30.201858] Starting Finnhub extraction...
+2025-09-18 10:56:30,219 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 10:56:31,935 - INFO - ETL job completed in 1.734417 seconds
+2025-09-18 10:56:50,906 - INFO - ETL job started at 2025-09-18 10:56:50.906309
+2025-09-18 10:56:50,907 - INFO - [2025-09-18 10:56:50.907262] Starting Finnhub extraction...
+2025-09-18 10:56:50,925 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 10:56:54,314 - ERROR - Error extracting data from Finnhub: 'dict_items' object is not subscriptable
+2025-09-18 10:56:54,315 - INFO - ETL job completed in 3.40888 seconds
+2025-09-18 10:57:24,121 - INFO - ETL job started at 2025-09-18 10:57:24.121755
+2025-09-18 10:57:24,122 - INFO - [2025-09-18 10:57:24.122753] Starting Finnhub extraction...
+2025-09-18 10:57:24,141 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 10:57:28,605 - INFO - ETL job completed in 4.484078 seconds
+2025-09-18 10:57:44,291 - INFO - ETL job started at 2025-09-18 10:57:44.291105
+2025-09-18 10:57:44,292 - INFO - [2025-09-18 10:57:44.292240] Starting Finnhub extraction...
+2025-09-18 10:57:44,310 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 10:57:45,333 - INFO - ETL job completed in 1.042818 seconds
+2025-09-18 10:58:33,096 - INFO - ETL job started at 2025-09-18 10:58:33.096375
+2025-09-18 10:58:33,097 - INFO - [2025-09-18 10:58:33.097395] Starting Finnhub extraction...
+2025-09-18 10:58:33,116 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 10:58:40,256 - INFO - ETL job completed in 7.160445 seconds
+2025-09-18 10:59:10,288 - INFO - ETL job started at 2025-09-18 10:59:10.288928
+2025-09-18 10:59:10,289 - INFO - [2025-09-18 10:59:10.289581] Starting Finnhub extraction...
+2025-09-18 10:59:10,306 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 10:59:12,037 - INFO - ETL job completed in 1.748845 seconds
+2025-09-18 11:00:24,485 - INFO - ETL job started at 2025-09-18 11:00:24.485923
+2025-09-18 11:00:24,486 - INFO - [2025-09-18 11:00:24.486408] Starting Finnhub extraction...
+2025-09-18 11:00:24,504 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:00:25,758 - INFO - ETL job completed in 1.272475 seconds
+2025-09-18 11:24:07,597 - INFO - ETL job started at 2025-09-18 11:24:07.597257
+2025-09-18 11:24:07,598 - INFO - [2025-09-18 11:24:07.598255] Starting Finnhub extraction...
+2025-09-18 11:24:07,616 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:24:09,603 - INFO - ETL job completed in 2.005287 seconds
+2025-09-18 11:24:38,091 - INFO - ETL job started at 2025-09-18 11:24:38.091633
+2025-09-18 11:24:38,091 - INFO - [2025-09-18 11:24:38.091633] Starting Finnhub extraction...
+2025-09-18 11:24:38,110 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:24:39,880 - INFO - ETL job completed in 1.788107 seconds
+2025-09-18 11:26:20,991 - INFO - ETL job started at 2025-09-18 11:26:20.991014
+2025-09-18 11:26:20,991 - INFO - [2025-09-18 11:26:20.991014] Starting Finnhub extraction...
+2025-09-18 11:26:21,010 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:26:23,077 - INFO - ETL job completed in 2.086821 seconds
+2025-09-18 11:26:43,091 - INFO - ETL job started at 2025-09-18 11:26:43.091064
+2025-09-18 11:26:43,092 - INFO - [2025-09-18 11:26:43.092064] Starting Finnhub extraction...
+2025-09-18 11:26:43,110 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:26:45,162 - INFO - ETL job completed in 2.07181 seconds
+2025-09-18 11:28:28,401 - INFO - ETL job started at 2025-09-18 11:28:28.401285
+2025-09-18 11:28:28,402 - INFO - [2025-09-18 11:28:28.402296] Starting Finnhub extraction...
+2025-09-18 11:28:28,422 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:28:30,588 - INFO - ETL job completed in 2.18708 seconds
+2025-09-18 11:34:16,713 - INFO - ETL job started at 2025-09-18 11:34:16.713335
+2025-09-18 11:34:16,714 - INFO - [2025-09-18 11:34:16.714335] Starting Finnhub extraction...
+2025-09-18 11:34:16,732 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:34:22,699 - INFO - ETL job completed in 5.986066 seconds
+2025-09-18 11:47:42,814 - INFO - ETL job started at 2025-09-18 11:47:42.814744
+2025-09-18 11:47:42,814 - INFO - [2025-09-18 11:47:42.814744] Starting Finnhub extraction...
+2025-09-18 11:47:42,834 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:47:44,480 - ERROR - Error extracting data from Finnhub: Expecting value: line 1 column 1 (char 0)
+2025-09-18 11:47:44,481 - INFO - ETL job completed in 1.666825 seconds
+2025-09-18 11:48:30,016 - INFO - ETL job started at 2025-09-18 11:48:30.016908
+2025-09-18 11:48:30,017 - INFO - [2025-09-18 11:48:30.017908] Starting Finnhub extraction...
+2025-09-18 11:48:30,036 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:48:31,037 - ERROR - Error extracting data from Finnhub: Expecting value: line 1 column 1 (char 0)
+2025-09-18 11:48:31,038 - INFO - ETL job completed in 1.022057 seconds
+2025-09-18 11:48:57,256 - INFO - ETL job started at 2025-09-18 11:48:57.256973
+2025-09-18 11:48:57,257 - INFO - [2025-09-18 11:48:57.257973] Starting Finnhub extraction...
+2025-09-18 11:48:57,275 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:48:58,267 - ERROR - Error extracting data from Finnhub: Expecting value: line 1 column 1 (char 0)
+2025-09-18 11:48:58,268 - INFO - ETL job completed in 1.011509 seconds
+2025-09-18 11:51:15,848 - INFO - ETL job started at 2025-09-18 11:51:15.848377
+2025-09-18 11:51:15,849 - INFO - [2025-09-18 11:51:15.849375] Starting Finnhub extraction...
+2025-09-18 11:51:15,868 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:51:16,870 - ERROR - Error extracting data from Finnhub: Expecting value: line 1 column 1 (char 0)
+2025-09-18 11:51:16,871 - INFO - ETL job completed in 1.022666 seconds
+2025-09-18 11:52:06,668 - INFO - ETL job started at 2025-09-18 11:52:06.668964
+2025-09-18 11:52:06,669 - INFO - [2025-09-18 11:52:06.668964] Starting Finnhub extraction...
+2025-09-18 11:52:06,687 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 11:52:08,470 - INFO - ETL job completed in 1.80148 seconds
+2025-09-18 12:21:00,793 - INFO - ETL job started at 2025-09-18 12:21:00.793642
+2025-09-18 12:21:00,794 - INFO - [2025-09-18 12:21:00.794651] Starting Finnhub extraction...
+2025-09-18 12:21:00,814 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 12:21:20,106 - INFO - ETL job completed in 19.311871 seconds
+2025-09-18 12:21:35,172 - INFO - ETL job started at 2025-09-18 12:21:35.172941
+2025-09-18 12:21:35,174 - INFO - [2025-09-18 12:21:35.174334] Starting Finnhub extraction...
+2025-09-18 12:21:35,191 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 12:21:56,394 - INFO - ETL job completed in 21.221157 seconds
+2025-09-18 13:40:07,824 - INFO - ETL job started at 2025-09-18 13:40:07.824717
+2025-09-18 13:40:07,825 - INFO - [2025-09-18 13:40:07.825279] Starting Finnhub extraction...
+2025-09-18 13:40:07,843 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 13:40:13,075 - INFO - Successfully inserted 131 records into Metrics table.
+2025-09-18 13:40:13,076 - INFO - Successfully inserted 0 records into Metrics table.
+2025-09-18 13:40:13,077 - ERROR - Error extracting data from Finnhub: 'v' is an invalid keyword argument for QuarterlySeries
+2025-09-18 13:40:13,077 - INFO - ETL job completed in 5.252636 seconds
+2025-09-18 13:48:38,051 - INFO - ETL job started at 2025-09-18 13:48:38.051617
+2025-09-18 13:48:38,051 - INFO - [2025-09-18 13:48:38.051617] Starting Finnhub extraction...
+2025-09-18 13:48:38,070 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 13:48:49,631 - INFO - Successfully inserted 131 records into Metrics table.
+2025-09-18 13:48:49,631 - ERROR - Error extracting data from Finnhub: 'v' is an invalid keyword argument for AnnualSeries
+2025-09-18 13:48:49,632 - INFO - ETL job completed in 11.580598 seconds
+2025-09-18 13:57:01,558 - INFO - ETL job started at 2025-09-18 13:57:01.558858
+2025-09-18 13:57:01,559 - INFO - [2025-09-18 13:57:01.559858] Starting Finnhub extraction...
+2025-09-18 13:57:01,578 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 13:57:04,647 - INFO - Successfully inserted 131 records into Metrics table.
+2025-09-18 13:57:04,648 - ERROR - Error extracting data from Finnhub: 'company_id'
+2025-09-18 13:57:04,650 - INFO - ETL job completed in 3.091703 seconds
+2025-09-18 13:58:38,308 - INFO - ETL job started at 2025-09-18 13:58:38.307340
+2025-09-18 13:58:38,308 - INFO - [2025-09-18 13:58:38.308341] Starting Finnhub extraction...
+2025-09-18 13:58:38,326 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 13:58:41,077 - INFO - ETL job completed in 2.769684 seconds
+2025-09-18 13:59:38,310 - INFO - ETL job started at 2025-09-18 13:59:38.310288
+2025-09-18 13:59:38,311 - INFO - [2025-09-18 13:59:38.311288] Starting Finnhub extraction...
+2025-09-18 13:59:38,313 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 13:59:40,851 - INFO - ETL job completed in 2.54093 seconds
+2025-09-18 14:05:08,431 - INFO - ETL job started at 2025-09-18 14:05:08.431065
+2025-09-18 14:05:08,431 - INFO - [2025-09-18 14:05:08.431065] Starting Finnhub extraction...
+2025-09-18 14:05:08,450 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:05:09,565 - ERROR - Error extracting data from Finnhub: 'dict_items' object has no attribute 'items'
+2025-09-18 14:05:09,567 - INFO - ETL job completed in 1.136657 seconds
+2025-09-18 14:05:50,406 - INFO - ETL job started at 2025-09-18 14:05:50.406806
+2025-09-18 14:05:50,407 - INFO - [2025-09-18 14:05:50.407404] Starting Finnhub extraction...
+2025-09-18 14:05:50,424 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:05:51,440 - ERROR - Error extracting data from Finnhub: 'dict_items' object is not subscriptable
+2025-09-18 14:05:51,441 - INFO - ETL job completed in 1.03424 seconds
+2025-09-18 14:06:21,337 - INFO - ETL job started at 2025-09-18 14:06:21.337914
+2025-09-18 14:06:21,338 - INFO - [2025-09-18 14:06:21.338572] Starting Finnhub extraction...
+2025-09-18 14:06:21,357 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:06:24,043 - INFO - ETL job completed in 2.705376 seconds
+2025-09-18 14:08:12,145 - INFO - ETL job started at 2025-09-18 14:08:12.145809
+2025-09-18 14:08:12,146 - INFO - [2025-09-18 14:08:12.146822] Starting Finnhub extraction...
+2025-09-18 14:08:12,164 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:27:47,139 - INFO - ETL job started at 2025-09-18 14:27:47.139059
+2025-09-18 14:27:47,139 - INFO - [2025-09-18 14:27:47.139600] Starting Finnhub extraction...
+2025-09-18 14:27:47,158 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:27:49,941 - INFO - ETL job completed in 2.802219 seconds
+2025-09-18 14:28:27,805 - INFO - ETL job started at 2025-09-18 14:28:27.805385
+2025-09-18 14:28:27,806 - INFO - [2025-09-18 14:28:27.806384] Starting Finnhub extraction...
+2025-09-18 14:28:27,824 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:28:30,593 - INFO - ETL job completed in 2.787891 seconds
+2025-09-18 14:29:03,402 - INFO - ETL job started at 2025-09-18 14:29:03.402375
+2025-09-18 14:29:03,403 - INFO - [2025-09-18 14:29:03.403264] Starting Finnhub extraction...
+2025-09-18 14:29:03,420 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:29:27,426 - INFO - ETL job started at 2025-09-18 14:29:27.426099
+2025-09-18 14:29:27,426 - INFO - [2025-09-18 14:29:27.426099] Starting Finnhub extraction...
+2025-09-18 14:29:27,443 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:29:30,388 - INFO - ETL job completed in 2.962454 seconds
+2025-09-18 14:30:07,927 - INFO - ETL job started at 2025-09-18 14:30:07.927342
+2025-09-18 14:30:07,928 - INFO - [2025-09-18 14:30:07.928687] Starting Finnhub extraction...
+2025-09-18 14:30:07,945 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:30:10,977 - INFO - ETL job completed in 3.04992 seconds
+2025-09-18 14:31:16,694 - INFO - ETL job started at 2025-09-18 14:31:16.694054
+2025-09-18 14:31:16,695 - INFO - [2025-09-18 14:31:16.695314] Starting Finnhub extraction...
+2025-09-18 14:31:16,713 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:31:25,488 - INFO - Successfully inserted 131 records into Metrics table.
+2025-09-18 14:31:25,489 - ERROR - Error extracting data from Finnhub: 'ma_2' is an invalid keyword argument for QuarterlySeries
+2025-09-18 14:31:25,489 - INFO - ETL job completed in 8.79527 seconds
+2025-09-18 14:33:19,336 - INFO - ETL job started at 2025-09-18 14:33:19.336046
+2025-09-18 14:33:19,337 - INFO - [2025-09-18 14:33:19.337048] Starting Finnhub extraction...
+2025-09-18 14:33:19,354 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:33:22,548 - INFO - Successfully inserted 131 records into Metrics table.
+2025-09-18 14:33:22,549 - ERROR - Error extracting data from Finnhub: 'ma_2' is an invalid keyword argument for QuarterlySeries
+2025-09-18 14:33:22,549 - INFO - ETL job completed in 3.213735 seconds
+2025-09-18 14:34:13,458 - INFO - ETL job started at 2025-09-18 14:34:13.458764
+2025-09-18 14:34:13,459 - INFO - [2025-09-18 14:34:13.459764] Starting Finnhub extraction...
+2025-09-18 14:34:13,477 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:34:16,299 - INFO - Successfully inserted 131 records into Metrics table.
+2025-09-18 14:34:17,044 - ERROR - Error loading data to destination: (pymysql.err.ProgrammingError) inf can not be used with MySQL
+[SQL: INSERT INTO quarterly_series (company_id, metric_name, value, period, pct_change, volatility, created_at, updated_at) VALUES (%(company_id)s, %(metric_name)s, %(value)s, %(period)s, %(pct_change)s, %(volatility)s, now(), now())]
+[parameters: [{'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.926, 'period': '1991-03-29', 'pct_change': -1.043004675538195, 'volatility': 0.028339489527277457}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8926, 'period': '1991-06-28', 'pct_change': -1.7341640706126649, 'volatility': 0.024184430253091856}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8654, 'period': '1991-09-27', 'pct_change': -1.437176371129667, 'volatility': 0.03578681088520355}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8406, 'period': '1991-12-27', 'pct_change': -1.32947357135198, 'volatility': 0.03667419619659916}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8078, 'period': '1992-03-27', 'pct_change': -1.7820275996957458, 'volatility': 0.0361057705452555}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7844, 'period': '1992-06-26', 'pct_change': -1.294390972452708, 'volatility': 0.03567870513345411}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7682, 'period': '1992-09-25', 'pct_change': -0.90786819098857, 'volatility': 0.03143008113257047}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7221, 'period': '1992-12-25', 'pct_change': -2.607171134487052, 'volatility': 0.03620445414586384}  ... displaying 10 of 4747 total bound parameter sets ...  {'company_id': 1, 'metric_name': 'totalRatio', 'value': 1.2526, 'period': '2025-03-29', 'pct_change': 0.9591359716289105, 'volatility': 0.03219472006398769}, {'company_id': 1, 'metric_name': 'totalRatio', 'value': 1.2478, 'period': '2025-06-28', 'pct_change': -0.38320293788918214, 'volatility': 0.031448900351711266}]]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-09-18 14:34:17,045 - ERROR - Error extracting data from Finnhub: (pymysql.err.ProgrammingError) inf can not be used with MySQL
+[SQL: INSERT INTO quarterly_series (company_id, metric_name, value, period, pct_change, volatility, created_at, updated_at) VALUES (%(company_id)s, %(metric_name)s, %(value)s, %(period)s, %(pct_change)s, %(volatility)s, now(), now())]
+[parameters: [{'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.926, 'period': '1991-03-29', 'pct_change': -1.043004675538195, 'volatility': 0.028339489527277457}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8926, 'period': '1991-06-28', 'pct_change': -1.7341640706126649, 'volatility': 0.024184430253091856}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8654, 'period': '1991-09-27', 'pct_change': -1.437176371129667, 'volatility': 0.03578681088520355}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8406, 'period': '1991-12-27', 'pct_change': -1.32947357135198, 'volatility': 0.03667419619659916}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8078, 'period': '1992-03-27', 'pct_change': -1.7820275996957458, 'volatility': 0.0361057705452555}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7844, 'period': '1992-06-26', 'pct_change': -1.294390972452708, 'volatility': 0.03567870513345411}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7682, 'period': '1992-09-25', 'pct_change': -0.90786819098857, 'volatility': 0.03143008113257047}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7221, 'period': '1992-12-25', 'pct_change': -2.607171134487052, 'volatility': 0.03620445414586384}  ... displaying 10 of 4747 total bound parameter sets ...  {'company_id': 1, 'metric_name': 'totalRatio', 'value': 1.2526, 'period': '2025-03-29', 'pct_change': 0.9591359716289105, 'volatility': 0.03219472006398769}, {'company_id': 1, 'metric_name': 'totalRatio', 'value': 1.2478, 'period': '2025-06-28', 'pct_change': -0.38320293788918214, 'volatility': 0.031448900351711266}]]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-09-18 14:34:17,046 - INFO - ETL job completed in 3.587998 seconds
+2025-09-18 14:38:36,602 - INFO - ETL job started at 2025-09-18 14:38:36.602584
+2025-09-18 14:38:36,603 - INFO - [2025-09-18 14:38:36.603585] Starting Finnhub extraction...
+2025-09-18 14:38:36,621 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:38:39,613 - INFO - Successfully inserted 131 records into Metrics table.
+2025-09-18 14:38:41,659 - INFO - Successfully inserted 4734 records into Metrics table.
+2025-09-18 14:38:42,149 - INFO - Successfully inserted 1189 records into Metrics table.
+2025-09-18 14:38:42,153 - INFO - ETL job completed in 5.551387 seconds
+2025-09-18 14:41:15,484 - INFO - ETL job started at 2025-09-18 14:41:15.484161
+2025-09-18 14:41:15,485 - INFO - [2025-09-18 14:41:15.485476] Starting Finnhub extraction...
+2025-09-18 14:41:15,504 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:41:18,484 - INFO - Successfully inserted 131 records into Metrics table.
+2025-09-18 14:41:20,493 - INFO - Successfully inserted 4734 records into Metrics table.
+2025-09-18 14:41:20,975 - INFO - Successfully inserted 1189 records into Metrics table.
+2025-09-18 14:41:20,978 - INFO - ETL job completed in 5.494736 seconds
+2025-09-18 14:42:56,863 - INFO - ETL job started at 2025-09-18 14:42:56.863541
+2025-09-18 14:42:56,863 - INFO - [2025-09-18 14:42:56.863541] Starting Finnhub extraction...
+2025-09-18 14:42:56,882 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:43:01,377 - INFO - ETL job completed in 4.514378 seconds
+2025-09-18 14:43:15,262 - INFO - ETL job started at 2025-09-18 14:43:15.262657
+2025-09-18 14:43:15,262 - INFO - [2025-09-18 14:43:15.262657] Starting Finnhub extraction...
+2025-09-18 14:43:15,281 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:43:18,769 - INFO - ETL job completed in 3.507127 seconds
+2025-09-18 14:43:34,326 - INFO - ETL job started at 2025-09-18 14:43:34.326064
+2025-09-18 14:43:34,326 - INFO - [2025-09-18 14:43:34.326064] Starting Finnhub extraction...
+2025-09-18 14:43:34,343 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:43:37,864 - INFO - ETL job completed in 3.538908 seconds
+2025-09-18 14:47:30,043 - INFO - ETL job started at 2025-09-18 14:47:30.043684
+2025-09-18 14:47:30,044 - INFO - [2025-09-18 14:47:30.044685] Starting Finnhub extraction...
+2025-09-18 14:47:30,062 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:47:33,751 - ERROR - Error loading data to destination: (pymysql.err.ProgrammingError) inf can not be used with MySQL
+[SQL: INSERT INTO quarterly_series (company_id, metric_name, value, period, pct_change, ma_4, volatility, created_at, updated_at) VALUES (%(company_id)s, %(metric_name)s, %(value)s, %(period)s, %(pct_change)s, %(ma_4)s, %(volatility)s, now(), now())]
+[parameters: [{'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.926, 'period': '1991-03-29', 'pct_change': -1.043004675538195, 'ma_4': 1.9513, 'volatility': 0.028339489527277457}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8926, 'period': '1991-06-28', 'pct_change': -1.7341640706126649, 'ma_4': 1.9264999999999999, 'volatility': 0.024184430253091856}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8654, 'period': '1991-09-27', 'pct_change': -1.437176371129667, 'ma_4': 1.907575, 'volatility': 0.03578681088520355}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8406, 'period': '1991-12-27', 'pct_change': -1.32947357135198, 'ma_4': 1.8811499999999999, 'volatility': 0.03667419619659916}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8078, 'period': '1992-03-27', 'pct_change': -1.7820275996957458, 'ma_4': 1.8516, 'volatility': 0.0361057705452555}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7844, 'period': '1992-06-26', 'pct_change': -1.294390972452708, 'ma_4': 1.82455, 'volatility': 0.03567870513345411}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7682, 'period': '1992-09-25', 'pct_change': -0.90786819098857, 'ma_4': 1.80025, 'volatility': 0.03143008113257047}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7221, 'period': '1992-12-25', 'pct_change': -2.607171134487052, 'ma_4': 1.7706250000000001, 'volatility': 0.03620445414586384}  ... displaying 10 of 4747 total bound parameter sets ...  {'company_id': 1, 'metric_name': 'totalRatio', 'value': 1.2526, 'period': '2025-03-29', 'pct_change': 0.9591359716289105, 'ma_4': 1.2325, 'volatility': 0.03219472006398769}, {'company_id': 1, 'metric_name': 'totalRatio', 'value': 1.2478, 'period': '2025-06-28', 'pct_change': -0.38320293788918214, 'ma_4': 1.2315, 'volatility': 0.031448900351711266}]]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-09-18 14:47:33,752 - ERROR - Error extracting data from Finnhub: (pymysql.err.ProgrammingError) inf can not be used with MySQL
+[SQL: INSERT INTO quarterly_series (company_id, metric_name, value, period, pct_change, ma_4, volatility, created_at, updated_at) VALUES (%(company_id)s, %(metric_name)s, %(value)s, %(period)s, %(pct_change)s, %(ma_4)s, %(volatility)s, now(), now())]
+[parameters: [{'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.926, 'period': '1991-03-29', 'pct_change': -1.043004675538195, 'ma_4': 1.9513, 'volatility': 0.028339489527277457}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8926, 'period': '1991-06-28', 'pct_change': -1.7341640706126649, 'ma_4': 1.9264999999999999, 'volatility': 0.024184430253091856}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8654, 'period': '1991-09-27', 'pct_change': -1.437176371129667, 'ma_4': 1.907575, 'volatility': 0.03578681088520355}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8406, 'period': '1991-12-27', 'pct_change': -1.32947357135198, 'ma_4': 1.8811499999999999, 'volatility': 0.03667419619659916}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.8078, 'period': '1992-03-27', 'pct_change': -1.7820275996957458, 'ma_4': 1.8516, 'volatility': 0.0361057705452555}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7844, 'period': '1992-06-26', 'pct_change': -1.294390972452708, 'ma_4': 1.82455, 'volatility': 0.03567870513345411}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7682, 'period': '1992-09-25', 'pct_change': -0.90786819098857, 'ma_4': 1.80025, 'volatility': 0.03143008113257047}, {'company_id': 1, 'metric_name': 'assetTurnoverTTM', 'value': 1.7221, 'period': '1992-12-25', 'pct_change': -2.607171134487052, 'ma_4': 1.7706250000000001, 'volatility': 0.03620445414586384}  ... displaying 10 of 4747 total bound parameter sets ...  {'company_id': 1, 'metric_name': 'totalRatio', 'value': 1.2526, 'period': '2025-03-29', 'pct_change': 0.9591359716289105, 'ma_4': 1.2325, 'volatility': 0.03219472006398769}, {'company_id': 1, 'metric_name': 'totalRatio', 'value': 1.2478, 'period': '2025-06-28', 'pct_change': -0.38320293788918214, 'ma_4': 1.2315, 'volatility': 0.031448900351711266}]]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-09-18 14:47:33,753 - INFO - ETL job completed in 3.709379 seconds
+2025-09-18 14:49:01,643 - INFO - ETL job started at 2025-09-18 14:49:01.642232
+2025-09-18 14:49:01,643 - INFO - [2025-09-18 14:49:01.643670] Starting Finnhub extraction...
+2025-09-18 14:49:01,661 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:49:04,877 - INFO - ETL job completed in 3.235116 seconds
+2025-09-18 14:50:59,604 - INFO - ETL job started at 2025-09-18 14:50:59.604277
+2025-09-18 14:50:59,604 - INFO - [2025-09-18 14:50:59.604737] Starting Finnhub extraction...
+2025-09-18 14:50:59,621 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:51:04,142 - INFO - ETL job completed in 4.538677 seconds
+2025-09-18 14:51:17,278 - INFO - ETL job started at 2025-09-18 14:51:17.278955
+2025-09-18 14:51:17,279 - INFO - [2025-09-18 14:51:17.279495] Starting Finnhub extraction...
+2025-09-18 14:51:17,296 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:51:20,526 - INFO - ETL job completed in 3.246615 seconds
+2025-09-18 14:52:17,370 - INFO - ETL job started at 2025-09-18 14:52:17.370432
+2025-09-18 14:52:17,370 - INFO - [2025-09-18 14:52:17.370952] Starting Finnhub extraction...
+2025-09-18 14:52:17,388 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:52:20,858 - INFO - ETL job completed in 3.486569 seconds
+2025-09-18 14:54:20,083 - INFO - ETL job started at 2025-09-18 14:54:20.083511
+2025-09-18 14:54:20,083 - INFO - [2025-09-18 14:54:20.083511] Starting Finnhub extraction...
+2025-09-18 14:54:20,101 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 14:54:23,085 - INFO - Successfully inserted 131 records into DB.
+2025-09-18 14:54:25,738 - INFO - Successfully inserted 4734 records into DB.
+2025-09-18 14:54:26,414 - INFO - Successfully inserted 1189 records into DB.
+2025-09-18 14:54:26,417 - INFO - ETL job completed in 6.334167 seconds
+2025-09-18 15:05:19,606 - INFO - ETL job started at 2025-09-18 15:05:19.606693
+2025-09-18 15:05:19,606 - INFO - [2025-09-18 15:05:19.606693] Starting Finnhub extraction...
+2025-09-18 15:05:19,625 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 15:05:20,742 - ERROR - Error extracting data from Finnhub: 'Logger' object has no attribute 'info'
+2025-09-18 15:05:20,743 - INFO - ETL job completed in 1.136919 seconds
+2025-09-18 15:05:37,050 - INFO - ETL job started at 2025-09-18 15:05:37.050391
+2025-09-18 15:05:37,051 - INFO - [2025-09-18 15:05:37.051392] Starting Finnhub extraction...
+2025-09-18 15:05:37,068 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 15:05:38,079 - INFO - Inserting new company metrics...
+2025-09-18 15:05:39,966 - INFO - Successfully inserted 131 records into DB.
+2025-09-18 15:05:42,686 - INFO - Successfully inserted 4734 records into DB.
+2025-09-18 15:05:43,346 - INFO - Successfully inserted 1189 records into DB.
+2025-09-18 15:05:43,349 - INFO - ETL job completed in 6.299237 seconds
+2025-09-18 15:06:37,065 - INFO - ETL job started at 2025-09-18 15:06:37.065757
+2025-09-18 15:06:37,066 - INFO - [2025-09-18 15:06:37.065757] Starting Finnhub extraction...
+2025-09-18 15:06:37,068 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 15:06:37,811 - INFO - Inserting new company metrics...
+2025-09-18 15:06:41,277 - INFO - Successfully inserted 131 records into DB.
+2025-09-18 15:06:41,278 - INFO - Successfully inserted 0 records into DB.
+2025-09-18 15:06:41,278 - INFO - Successfully inserted 0 records into DB.
+2025-09-18 15:06:41,279 - INFO - ETL job completed in 4.213344 seconds
+2025-09-18 15:07:34,811 - INFO - ETL job started at 2025-09-18 15:07:34.811545
+2025-09-18 15:07:34,812 - INFO - [2025-09-18 15:07:34.812544] Starting Finnhub extraction...
+2025-09-18 15:07:34,828 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 15:07:35,865 - INFO - Updating existing company metrics...
+2025-09-18 15:07:35,881 - ERROR - Error extracting data from Finnhub: (pymysql.err.DataError) (1265, "Data truncated for column 'metric_value' at row 1")
+[SQL: UPDATE metrics SET metric_value=%(metric_value)s, updated_at=now() WHERE metrics.id = %(metrics_id)s]
+[parameters: [{'metric_value': 55.98355, 'metrics_id': 1180}, {'metric_value': 22.938505, 'metrics_id': 1183}, {'metric_value': 54.07874, 'metrics_id': 1184}, {'metric_value': '2024-12-26', 'metrics_id': 1186}, {'metric_value': 169.2101, 'metrics_id': 1187}, {'metric_value': '2025-04-08', 'metrics_id': 1188}, {'metric_value': 1.0772048, 'metrics_id': 1193}, {'metric_value': 0.43516463, 'metrics_id': 1211}  ... displaying 10 of 36 total bound parameter sets ...  {'metric_value': 56.989999999999995, 'metrics_id': 1434}, {'metric_value': 60.199999999999996, 'metrics_id': 1435}]]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-09-18 15:07:35,882 - INFO - ETL job completed in 1.071207 seconds
+2025-09-18 15:09:54,880 - INFO - ETL job started at 2025-09-18 15:09:54.880327
+2025-09-18 15:09:54,881 - INFO - [2025-09-18 15:09:54.881326] Starting Finnhub extraction...
+2025-09-18 15:09:54,899 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 15:09:55,924 - INFO - Updating existing company metrics...
+2025-09-18 15:09:55,927 - ERROR - Error extracting data from Finnhub: local variable 'metric_value' referenced before assignment
+2025-09-18 15:09:55,928 - INFO - ETL job completed in 1.047792 seconds
+2025-09-18 15:11:50,519 - INFO - ETL job started at 2025-09-18 15:11:50.519077
+2025-09-18 15:11:50,520 - INFO - [2025-09-18 15:11:50.520077] Starting Finnhub extraction...
+2025-09-18 15:11:50,537 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 15:11:51,683 - INFO - Updating existing company metrics...
+2025-09-18 15:11:51,699 - ERROR - Error extracting data from Finnhub: (pymysql.err.DataError) (1265, "Data truncated for column 'metric_value' at row 1")
+[SQL: UPDATE metrics SET metric_value=%(metric_value)s, updated_at=now() WHERE metrics.id = %(metrics_id)s]
+[parameters: [{'metric_value': 55.98355, 'metrics_id': 1180}, {'metric_value': 22.938505, 'metrics_id': 1183}, {'metric_value': 54.07874, 'metrics_id': 1184}, {'metric_value': '2024-12-26', 'metrics_id': 1186}, {'metric_value': 169.2101, 'metrics_id': 1187}, {'metric_value': '2025-04-08', 'metrics_id': 1188}, {'metric_value': 1.0772048, 'metrics_id': 1193}, {'metric_value': 0.43516463, 'metrics_id': 1211}  ... displaying 10 of 36 total bound parameter sets ...  {'metric_value': 56.989999999999995, 'metrics_id': 1434}, {'metric_value': 60.199999999999996, 'metrics_id': 1435}]]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2025-09-18 15:11:51,700 - INFO - ETL job completed in 1.181252 seconds
+2025-09-18 15:16:05,154 - INFO - ETL job started at 2025-09-18 15:16:05.154027
+2025-09-18 15:16:05,155 - INFO - [2025-09-18 15:16:05.155026] Starting Finnhub extraction...
+2025-09-18 15:16:05,172 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 15:16:06,233 - INFO - Truncated Metrics table, deleted 262 records.
+2025-09-18 15:16:09,699 - INFO - Successfully inserted 131 records into DB.
+2025-09-18 15:16:09,699 - INFO - Successfully inserted 0 records into DB.
+2025-09-18 15:16:09,700 - INFO - Successfully inserted 0 records into DB.
+2025-09-18 15:16:09,701 - INFO - ETL job completed in 4.546565 seconds
+2025-09-18 15:17:05,165 - INFO - ETL job started at 2025-09-18 15:17:05.165895
+2025-09-18 15:17:05,166 - INFO - [2025-09-18 15:17:05.166591] Starting Finnhub extraction...
+2025-09-18 15:17:05,168 - INFO - Fetching daily stock candles for AAPL
+2025-09-18 15:17:05,901 - INFO - Truncated Metrics table, deleted 131 records.
+2025-09-18 15:17:09,346 - INFO - Successfully inserted 131 records into DB.
+2025-09-18 15:17:09,347 - INFO - Successfully inserted 0 records into DB.
+2025-09-18 15:17:09,347 - INFO - Successfully inserted 0 records into DB.
+2025-09-18 15:17:09,349 - INFO - ETL job completed in 4.182343 seconds
+2025-09-18 15:19:01,629 - INFO - ETL job started at 2025-09-18 15:19:01.629271
+2025-09-18 15:19:01,630 - INFO - [2025-09-18 15:19:01.630272] Starting Finnhub news extraction...
+2025-09-18 15:19:01,630 - INFO - Fetching company news for AAPL from 2025-09-11 to 2025-09-18
+2025-09-18 15:19:02,739 - INFO - Successfully extracted news data from Finnhub
+2025-09-18 15:19:02,814 - INFO - Finnhub News CSV written to artifacts\finnhub\AAPL_News_2025-09-18_15-19-02.json
+2025-09-18 15:19:02,814 - INFO - ETL job completed in 1.184969 seconds
+2025-09-18 15:25:58,743 - INFO - ETL job started at 2025-09-18 15:25:58.743840
+2025-09-18 15:25:58,757 - ERROR - Error truncating Metrics table: Mapper 'Mapper[Company(companies)]' has no property 'news'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2025-09-18 15:25:58,758 - ERROR - Error extracting news data from Finnhub: Mapper 'Mapper[Company(companies)]' has no property 'news'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2025-09-18 15:25:58,758 - INFO - ETL job completed in 0.014999 seconds
+2025-09-18 15:26:50,395 - INFO - ETL job started at 2025-09-18 15:26:50.395580
+2025-09-18 15:26:50,409 - ERROR - Error Fetching companies table: Mapper 'Mapper[Company(companies)]' has no property 'news'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2025-09-18 15:26:50,409 - ERROR - Error extracting news data from Finnhub: Mapper 'Mapper[Company(companies)]' has no property 'news'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2025-09-18 15:26:50,410 - INFO - ETL job completed in 0.014513 seconds
+2025-09-18 15:29:32,203 - INFO - ETL job started at 2025-09-18 15:29:32.203335
+2025-09-18 15:29:32,218 - ERROR - Error Fetching companies table: Mapper 'Mapper[Company(companies)]' has no property 'news'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2025-09-18 15:29:32,219 - ERROR - Error extracting news data from Finnhub: Mapper 'Mapper[Company(companies)]' has no property 'news'.  If this property was indicated from other mappers or configure events, ensure registry.configure() has been called.
+2025-09-18 15:29:32,219 - INFO - ETL job completed in 0.015723 seconds
+2025-09-18 15:31:30,919 - INFO - ETL job started at 2025-09-18 15:31:30.919655
+2025-09-18 15:31:30,931 - ERROR - Error Fetching companies table: Could not determine join condition between parent/child tables on relationship AnnualSeries.news - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+2025-09-18 15:31:30,931 - ERROR - Error extracting news data from Finnhub: Could not determine join condition between parent/child tables on relationship AnnualSeries.news - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+2025-09-18 15:31:30,932 - INFO - ETL job completed in 0.012278 seconds
+2025-09-18 15:37:14,988 - INFO - ETL job started at 2025-09-18 15:37:14.988841
+2025-09-18 15:37:14,991 - INFO - [2025-09-18 15:37:14.991693] Starting Finnhub news extraction...
+2025-09-18 15:37:14,991 - INFO - Fetching company news for AAPL from 2025-09-17 to 2025-09-18
+2025-09-18 15:37:18,295 - INFO - Successfully extracted news data from Finnhub
+2025-09-18 15:37:18,307 - INFO - Finnhub News CSV written to artifacts\finnhub\AAPL_News_2025-09-18_15-37-18.json
+2025-09-18 15:37:18,307 - INFO - ETL job completed in 3.318942 seconds
+2025-09-18 15:38:36,153 - INFO - ETL job started at 2025-09-18 15:38:36.153063
+2025-09-18 15:38:36,155 - INFO - [2025-09-18 15:38:36.155746] Starting Finnhub news extraction...
+2025-09-18 15:38:36,155 - INFO - Fetching company news for AAPL from 2025-09-17 to 2025-09-18
+2025-09-18 15:38:36,747 - INFO - ETL job completed in 0.594268 seconds
+2025-09-18 15:42:11,521 - INFO - ETL job started at 2025-09-18 15:42:11.521571
+2025-09-18 15:42:11,524 - INFO - [2025-09-18 15:42:11.524577] Starting Finnhub news extraction...
+2025-09-18 15:42:11,524 - INFO - Fetching company news for AAPL from 2025-09-17 to 2025-09-18
+2025-09-18 15:42:12,156 - ERROR - Error adding news item: (pymysql.err.IntegrityError) (1048, "Column 'news_id' cannot be null")
+[SQL: INSERT INTO company_news (id, news_id, company_id, symbol, category, headline, summary, source, url, image, related, datetime, created_at, updated_at) VALUES (%(id)s, %(news_id)s, %(company_id)s, %(symbol)s, %(category)s, %(headline)s, %(summary)s, %(source)s, %(url)s, %(image)s, %(related)s, %(datetime)s, now(), now())]
+[parameters: {'id': 136795844, 'news_id': None, 'company_id': None, 'symbol': None, 'category': 'company', 'headline': "NIE: Market Valuations Appear Stretched, But This Fund's Has Improved", 'summary': 'NIE offers an 8.06% yield, higher than major indices and most peers, while maintaining capital growth and sustainability. Read why NIE CEF is a Hold.', 'source': 'SeekingAlpha', 'url': 'https://finnhub.io/api/news?id=f449f53ac0e2834903b169a8758fbe4b68f428905139dc5c6aef132fc7def8c0', 'image': 'https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1820438694/image_1820438694.jpg?io=getty-c-w1536', 'related': 'AAPL', 'datetime': 1758165742}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-09-18 15:42:12,157 - ERROR - Error extracting news data from Finnhub: (pymysql.err.IntegrityError) (1048, "Column 'news_id' cannot be null")
+[SQL: INSERT INTO company_news (id, news_id, company_id, symbol, category, headline, summary, source, url, image, related, datetime, created_at, updated_at) VALUES (%(id)s, %(news_id)s, %(company_id)s, %(symbol)s, %(category)s, %(headline)s, %(summary)s, %(source)s, %(url)s, %(image)s, %(related)s, %(datetime)s, now(), now())]
+[parameters: {'id': 136795844, 'news_id': None, 'company_id': None, 'symbol': None, 'category': 'company', 'headline': "NIE: Market Valuations Appear Stretched, But This Fund's Has Improved", 'summary': 'NIE offers an 8.06% yield, higher than major indices and most peers, while maintaining capital growth and sustainability. Read why NIE CEF is a Hold.', 'source': 'SeekingAlpha', 'url': 'https://finnhub.io/api/news?id=f449f53ac0e2834903b169a8758fbe4b68f428905139dc5c6aef132fc7def8c0', 'image': 'https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1820438694/image_1820438694.jpg?io=getty-c-w1536', 'related': 'AAPL', 'datetime': 1758165742}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-09-18 15:42:12,158 - INFO - ETL job completed in 0.636778 seconds
+2025-09-18 15:43:06,708 - INFO - ETL job started at 2025-09-18 15:43:06.708287
+2025-09-18 15:43:06,711 - INFO - [2025-09-18 15:43:06.711286] Starting Finnhub news extraction...
+2025-09-18 15:43:06,711 - INFO - Fetching company news for AAPL from 2025-09-17 to 2025-09-18
+2025-09-18 15:43:07,423 - ERROR - Error adding news item: (pymysql.err.IntegrityError) (1048, "Column 'symbol' cannot be null")
+[SQL: INSERT INTO company_news (id, company_id, symbol, category, headline, summary, source, url, image, related, datetime, created_at, updated_at) VALUES (%(id)s, %(company_id)s, %(symbol)s, %(category)s, %(headline)s, %(summary)s, %(source)s, %(url)s, %(image)s, %(related)s, %(datetime)s, now(), now())]
+[parameters: {'id': 136795844, 'company_id': None, 'symbol': None, 'category': 'company', 'headline': "NIE: Market Valuations Appear Stretched, But This Fund's Has Improved", 'summary': 'NIE offers an 8.06% yield, higher than major indices and most peers, while maintaining capital growth and sustainability. Read why NIE CEF is a Hold.', 'source': 'SeekingAlpha', 'url': 'https://finnhub.io/api/news?id=f449f53ac0e2834903b169a8758fbe4b68f428905139dc5c6aef132fc7def8c0', 'image': 'https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1820438694/image_1820438694.jpg?io=getty-c-w1536', 'related': 'AAPL', 'datetime': 1758165742}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-09-18 15:43:07,424 - ERROR - Error extracting news data from Finnhub: (pymysql.err.IntegrityError) (1048, "Column 'symbol' cannot be null")
+[SQL: INSERT INTO company_news (id, company_id, symbol, category, headline, summary, source, url, image, related, datetime, created_at, updated_at) VALUES (%(id)s, %(company_id)s, %(symbol)s, %(category)s, %(headline)s, %(summary)s, %(source)s, %(url)s, %(image)s, %(related)s, %(datetime)s, now(), now())]
+[parameters: {'id': 136795844, 'company_id': None, 'symbol': None, 'category': 'company', 'headline': "NIE: Market Valuations Appear Stretched, But This Fund's Has Improved", 'summary': 'NIE offers an 8.06% yield, higher than major indices and most peers, while maintaining capital growth and sustainability. Read why NIE CEF is a Hold.', 'source': 'SeekingAlpha', 'url': 'https://finnhub.io/api/news?id=f449f53ac0e2834903b169a8758fbe4b68f428905139dc5c6aef132fc7def8c0', 'image': 'https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1820438694/image_1820438694.jpg?io=getty-c-w1536', 'related': 'AAPL', 'datetime': 1758165742}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-09-18 15:43:07,424 - INFO - ETL job completed in 0.71599 seconds
+2025-09-18 15:44:42,901 - INFO - ETL job started at 2025-09-18 15:44:42.901997
+2025-09-18 15:44:42,905 - INFO - [2025-09-18 15:44:42.905032] Starting Finnhub news extraction...
+2025-09-18 15:44:42,906 - INFO - Fetching company news for AAPL from 2025-09-17 to 2025-09-18
+2025-09-18 15:44:43,520 - ERROR - Error adding news item: (pymysql.err.IntegrityError) (1048, "Column 'symbol' cannot be null")
+[SQL: INSERT INTO company_news (id, company_id, symbol, category, headline, summary, source, url, image, related, datetime, created_at, updated_at) VALUES (%(id)s, %(company_id)s, %(symbol)s, %(category)s, %(headline)s, %(summary)s, %(source)s, %(url)s, %(image)s, %(related)s, %(datetime)s, now(), now())]
+[parameters: {'id': 136795844, 'company_id': None, 'symbol': None, 'category': 'company', 'headline': "NIE: Market Valuations Appear Stretched, But This Fund's Has Improved", 'summary': 'NIE offers an 8.06% yield, higher than major indices and most peers, while maintaining capital growth and sustainability. Read why NIE CEF is a Hold.', 'source': 'SeekingAlpha', 'url': 'https://finnhub.io/api/news?id=f449f53ac0e2834903b169a8758fbe4b68f428905139dc5c6aef132fc7def8c0', 'image': 'https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1820438694/image_1820438694.jpg?io=getty-c-w1536', 'related': 'AAPL', 'datetime': 1758165742}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-09-18 15:44:43,520 - ERROR - Error extracting news data from Finnhub: (pymysql.err.IntegrityError) (1048, "Column 'symbol' cannot be null")
+[SQL: INSERT INTO company_news (id, company_id, symbol, category, headline, summary, source, url, image, related, datetime, created_at, updated_at) VALUES (%(id)s, %(company_id)s, %(symbol)s, %(category)s, %(headline)s, %(summary)s, %(source)s, %(url)s, %(image)s, %(related)s, %(datetime)s, now(), now())]
+[parameters: {'id': 136795844, 'company_id': None, 'symbol': None, 'category': 'company', 'headline': "NIE: Market Valuations Appear Stretched, But This Fund's Has Improved", 'summary': 'NIE offers an 8.06% yield, higher than major indices and most peers, while maintaining capital growth and sustainability. Read why NIE CEF is a Hold.', 'source': 'SeekingAlpha', 'url': 'https://finnhub.io/api/news?id=f449f53ac0e2834903b169a8758fbe4b68f428905139dc5c6aef132fc7def8c0', 'image': 'https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1820438694/image_1820438694.jpg?io=getty-c-w1536', 'related': 'AAPL', 'datetime': 1758165742}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-09-18 15:44:43,521 - INFO - ETL job completed in 0.619226 seconds
+2025-09-18 15:45:06,734 - INFO - ETL job started at 2025-09-18 15:45:06.734631
+2025-09-18 15:45:06,738 - INFO - [2025-09-18 15:45:06.738016] Starting Finnhub news extraction...
+2025-09-18 15:45:06,738 - INFO - Fetching company news for AAPL from 2025-09-17 to 2025-09-18
+2025-09-18 15:45:08,070 - ERROR - Error adding news item: (pymysql.err.OperationalError) (1292, "Incorrect datetime value: '1758165742' for column 'datetime' at row 1")
+[SQL: INSERT INTO company_news (id, company_id, symbol, category, headline, summary, source, url, image, related, datetime, created_at, updated_at) VALUES (%(id)s, %(company_id)s, %(symbol)s, %(category)s, %(headline)s, %(summary)s, %(source)s, %(url)s, %(image)s, %(related)s, %(datetime)s, now(), now())]
+[parameters: {'id': 136795844, 'company_id': None, 'symbol': None, 'category': 'company', 'headline': "NIE: Market Valuations Appear Stretched, But This Fund's Has Improved", 'summary': 'NIE offers an 8.06% yield, higher than major indices and most peers, while maintaining capital growth and sustainability. Read why NIE CEF is a Hold.', 'source': 'SeekingAlpha', 'url': 'https://finnhub.io/api/news?id=f449f53ac0e2834903b169a8758fbe4b68f428905139dc5c6aef132fc7def8c0', 'image': 'https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1820438694/image_1820438694.jpg?io=getty-c-w1536', 'related': 'AAPL', 'datetime': 1758165742}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 15:45:08,071 - ERROR - Error extracting news data from Finnhub: (pymysql.err.OperationalError) (1292, "Incorrect datetime value: '1758165742' for column 'datetime' at row 1")
+[SQL: INSERT INTO company_news (id, company_id, symbol, category, headline, summary, source, url, image, related, datetime, created_at, updated_at) VALUES (%(id)s, %(company_id)s, %(symbol)s, %(category)s, %(headline)s, %(summary)s, %(source)s, %(url)s, %(image)s, %(related)s, %(datetime)s, now(), now())]
+[parameters: {'id': 136795844, 'company_id': None, 'symbol': None, 'category': 'company', 'headline': "NIE: Market Valuations Appear Stretched, But This Fund's Has Improved", 'summary': 'NIE offers an 8.06% yield, higher than major indices and most peers, while maintaining capital growth and sustainability. Read why NIE CEF is a Hold.', 'source': 'SeekingAlpha', 'url': 'https://finnhub.io/api/news?id=f449f53ac0e2834903b169a8758fbe4b68f428905139dc5c6aef132fc7def8c0', 'image': 'https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1820438694/image_1820438694.jpg?io=getty-c-w1536', 'related': 'AAPL', 'datetime': 1758165742}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-18 15:45:08,072 - INFO - ETL job completed in 1.338162 seconds
+2025-09-18 15:47:57,643 - INFO - ETL job started at 2025-09-18 15:47:57.643080
+2025-09-18 15:47:57,646 - INFO - [2025-09-18 15:47:57.646080] Starting Finnhub news extraction...
+2025-09-18 15:47:57,647 - INFO - Fetching company news for AAPL from 2025-09-17 to 2025-09-18
+2025-09-18 15:47:58,499 - INFO - ETL job completed in 0.856672 seconds
+2025-09-18 15:50:06,940 - INFO - ETL job started at 2025-09-18 15:50:06.940327
+2025-09-18 15:50:06,943 - INFO - [2025-09-18 15:50:06.943339] Starting Finnhub news extraction...
+2025-09-18 15:50:06,944 - INFO - Fetching company news for AAPL from 2025-09-17 to 2025-09-18
+2025-09-18 15:50:07,960 - INFO - Inserted 64 news items for AAPL
+2025-09-18 15:50:07,961 - INFO - ETL job completed in 1.021396 seconds
+2025-09-18 15:50:39,551 - INFO - ETL job started at 2025-09-18 15:50:39.551356
+2025-09-18 15:50:39,554 - INFO - [2025-09-18 15:50:39.554356] Starting Finnhub news extraction...
+2025-09-18 15:50:39,554 - INFO - Fetching company news for AAPL from 2025-09-17 to 2025-09-18
+2025-09-18 15:50:40,174 - INFO - Inserted 64 news items for AAPL
+2025-09-18 15:50:40,174 - INFO - ETL job completed in 0.623341 seconds
+2025-09-18 15:51:59,202 - INFO - ETL job started at 2025-09-18 15:51:59.202910
+2025-09-18 15:51:59,205 - INFO - [2025-09-18 15:51:59.205909] Starting Finnhub news extraction...
+2025-09-18 15:51:59,205 - INFO - Fetching company news for AAPL from 2025-09-17 to 2025-09-18
+2025-09-18 15:52:00,082 - INFO - Inserted 64 news items for AAPL
+2025-09-18 15:52:00,083 - INFO - ETL job completed in 0.880301 seconds
+2025-09-18 15:53:12,037 - INFO - ETL job started at 2025-09-18 15:53:12.037530
+2025-09-18 15:53:12,040 - INFO - [2025-09-18 15:53:12.040533] Starting Finnhub news extraction...
+2025-09-18 15:53:12,041 - INFO - Fetching company news for AAPL from 2025-09-17 to 2025-09-18
+2025-09-18 15:53:12,967 - INFO - Inserted 64 news items for AAPL
+2025-09-18 15:53:12,968 - INFO - ETL job completed in 0.931313 seconds
+2025-09-18 16:00:45,982 - INFO - ETL job started at 2025-09-18 16:00:45.982480
+2025-09-18 16:00:45,983 - INFO - [2025-09-18 16:00:45.983479] Starting PyFinance extraction...
+2025-09-18 16:00:51,369 - INFO - Successfully fetched data for ^GSPC
+2025-09-18 16:00:51,383 - INFO - PyFinance CSV saved
+2025-09-18 16:00:51,383 - INFO - [2025-09-18 16:00:51.383636] Starting PyFinance FX extraction...
+2025-09-18 16:00:51,676 - INFO - Fetched EURUSD=X rate: Ticker
+EURUSD=X    1.179802
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:00:51,967 - INFO - Fetched GBPUSD=X rate: Ticker
+GBPUSD=X    1.359453
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:00:52,231 - INFO - Fetched JPY=X rate: Ticker
+JPY=X    147.852997
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:00:52,514 - INFO - Fetched AUDUSD=X rate: Ticker
+AUDUSD=X    0.66335
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:00:52,793 - INFO - Fetched CADUSD=X rate: Ticker
+CADUSD=X    0.725426
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:00:53,093 - INFO - Fetched CHFUSD=X rate: Ticker
+CHFUSD=X    1.263951
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:00:53,371 - INFO - Fetched NZDUSD=X rate: Ticker
+NZDUSD=X    0.589379
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:00:53,380 - INFO - PyFinance FX CSV saved to artifacts\pyfinance\FX_Rates_2025-09-18_16-00-53.csv
+2025-09-18 16:00:53,381 - INFO - ETL job completed in 7.398869 seconds
+2025-09-18 16:01:45,998 - INFO - ETL job started at 2025-09-18 16:01:45.998905
+2025-09-18 16:01:45,998 - INFO - [2025-09-18 16:01:45.998905] Starting PyFinance extraction...
+2025-09-18 16:01:46,377 - INFO - Successfully fetched data for ^GSPC
+2025-09-18 16:01:46,387 - INFO - PyFinance CSV saved
+2025-09-18 16:01:46,387 - INFO - [2025-09-18 16:01:46.387272] Starting PyFinance FX extraction...
+2025-09-18 16:01:46,675 - INFO - Fetched EURUSD=X rate: Ticker
+EURUSD=X    1.179802
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:01:46,957 - INFO - Fetched GBPUSD=X rate: Ticker
+GBPUSD=X    1.359453
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:01:47,291 - INFO - Fetched JPY=X rate: Ticker
+JPY=X    147.867004
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:01:47,573 - INFO - Fetched AUDUSD=X rate: Ticker
+AUDUSD=X    0.66335
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:01:47,861 - INFO - Fetched CADUSD=X rate: Ticker
+CADUSD=X    0.725268
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:01:48,140 - INFO - Fetched CHFUSD=X rate: Ticker
+CHFUSD=X    1.263887
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:01:48,419 - INFO - Fetched NZDUSD=X rate: Ticker
+NZDUSD=X    0.589379
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:01:48,430 - INFO - PyFinance FX CSV saved to artifacts\pyfinance\FX_Rates_2025-09-18_16-01-48.csv
+2025-09-18 16:01:48,431 - INFO - ETL job completed in 2.432153 seconds
+2025-09-18 16:02:33,432 - INFO - ETL job started at 2025-09-18 16:02:33.432344
+2025-09-18 16:02:33,432 - INFO - [2025-09-18 16:02:33.432878] Starting PyFinance extraction...
+2025-09-18 16:02:34,402 - INFO - Successfully fetched data for ^GSPC
+2025-09-18 16:02:34,415 - INFO - PyFinance CSV saved
+2025-09-18 16:02:34,415 - INFO - [2025-09-18 16:02:34.415913] Starting PyFinance FX extraction...
+2025-09-18 16:02:34,819 - INFO - Fetched EURUSD=X rate: Ticker
+EURUSD=X    1.179523
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:02:35,290 - INFO - Fetched GBPUSD=X rate: Ticker
+GBPUSD=X    1.359176
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:02:35,632 - INFO - Fetched JPY=X rate: Ticker
+JPY=X    147.867004
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:02:35,976 - INFO - Fetched AUDUSD=X rate: Ticker
+AUDUSD=X    0.663306
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:02:36,260 - INFO - Fetched CADUSD=X rate: Ticker
+CADUSD=X    0.725274
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:02:36,536 - INFO - Fetched CHFUSD=X rate: Ticker
+CHFUSD=X    1.263967
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:02:36,833 - INFO - Fetched NZDUSD=X rate: Ticker
+NZDUSD=X    0.589345
+Name: 2025-09-18 00:00:00, dtype: float64
+2025-09-18 16:02:36,843 - INFO - PyFinance FX CSV saved to artifacts\pyfinance\FX_Rates_2025-09-18_16-02-36.csv
+2025-09-18 16:02:36,844 - INFO - ETL job completed in 3.412432 seconds
+2025-09-18 16:04:11,708 - INFO - ETL job started at 2025-09-18 16:04:11.708296
+2025-09-18 16:04:11,709 - INFO - [2025-09-18 16:04:11.709296] Starting PyFinance FX extraction...
+2025-09-18 16:04:14,346 - INFO - ETL job completed in 2.63831 seconds
+2025-09-18 16:04:55,775 - INFO - ETL job started at 2025-09-18 16:04:55.775767
+2025-09-18 16:04:55,776 - INFO - [2025-09-18 16:04:55.776372] Starting PyFinance FX extraction...
+2025-09-18 16:04:59,071 - INFO - ETL job completed in 3.296204 seconds
+2025-09-18 16:05:19,827 - INFO - ETL job started at 2025-09-18 16:05:19.827525
+2025-09-18 16:05:19,828 - INFO - [2025-09-18 16:05:19.828525] Starting PyFinance FX extraction...
+2025-09-18 16:05:22,642 - INFO - ETL job completed in 2.815365 seconds
+2025-09-18 16:07:16,816 - INFO - ETL job started at 2025-09-18 16:07:16.816870
+2025-09-18 16:07:16,817 - INFO - [2025-09-18 16:07:16.817871] Starting PyFinance FX extraction...
+2025-09-18 16:07:19,543 - INFO - ETL job completed in 2.726404 seconds
+2025-09-18 16:09:13,109 - INFO - ETL job started at 2025-09-18 16:09:13.109479
+2025-09-18 16:09:13,110 - INFO - [2025-09-18 16:09:13.110474] Starting PyFinance FX extraction...
+2025-09-18 16:09:15,920 - INFO - ETL job completed in 2.811164 seconds
+2025-09-18 16:11:38,730 - INFO - ETL job started at 2025-09-18 16:11:38.730792
+2025-09-18 16:11:38,731 - INFO - [2025-09-18 16:11:38.731792] Starting PyFinance FX extraction...
+2025-09-18 16:11:38,731 - ERROR - Error extracting FX rates from PyFinance: 'PyFinanceExtractor' object has no attribute 'fetch_fx_rates'
+2025-09-18 16:11:38,731 - INFO - ETL job completed in 0.001 seconds
+2025-09-18 16:11:54,043 - INFO - ETL job started at 2025-09-18 16:11:54.043266
+2025-09-18 16:11:54,044 - INFO - [2025-09-18 16:11:54.044267] Starting PyFinance FX extraction...
+2025-09-18 16:11:54,044 - ERROR - Error extracting FX rates from PyFinance: 'PyFinanceExtractor' object is not iterable
+2025-09-18 16:11:54,045 - INFO - ETL job completed in 0.002033 seconds
+2025-09-18 16:13:17,523 - INFO - ETL job started at 2025-09-18 16:13:17.523366
+2025-09-18 16:13:17,524 - INFO - [2025-09-18 16:13:17.524381] Starting PyFinance FX extraction...
+2025-09-18 16:13:17,524 - ERROR - Error extracting FX rates from PyFinance: 'PyFinanceExtractor' object is not iterable
+2025-09-18 16:13:17,524 - INFO - ETL job completed in 0.001015 seconds
+2025-09-18 16:13:38,599 - INFO - ETL job started at 2025-09-18 16:13:38.599146
+2025-09-18 16:13:38,600 - INFO - [2025-09-18 16:13:38.600366] Starting PyFinance FX extraction...
+2025-09-18 16:13:38,600 - ERROR - Error extracting FX rates from PyFinance: 'PyFinanceExtractor' object is not iterable
+2025-09-18 16:13:38,601 - INFO - ETL job completed in 0.002243 seconds
+2025-09-18 16:14:46,034 - INFO - ETL job started at 2025-09-18 16:14:46.034372
+2025-09-18 16:14:46,035 - INFO - [2025-09-18 16:14:46.035370] Starting PyFinance FX extraction...
+2025-09-18 16:14:46,035 - ERROR - Error extracting FX rates from PyFinance: 'PyFinanceExtractor' object is not iterable
+2025-09-18 16:14:46,035 - INFO - ETL job completed in 0.000998 seconds
+2025-09-18 16:16:50,381 - INFO - ETL job started at 2025-09-18 16:16:50.381891
+2025-09-18 16:16:50,382 - INFO - [2025-09-18 16:16:50.382887] Starting PyFinance FX extraction...
+2025-09-18 16:16:51,290 - ERROR - Error fetching EURUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:16:51,564 - ERROR - Error fetching GBPUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:16:51,833 - ERROR - Error fetching JPY=X: "['Adj Close'] not in index"
+2025-09-18 16:16:52,129 - ERROR - Error fetching AUDUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:16:52,395 - ERROR - Error fetching CADUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:16:52,703 - ERROR - Error fetching CHFUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:16:52,986 - ERROR - Error fetching NZDUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:16:52,986 - INFO - No FX data was fetched.
+2025-09-18 16:16:52,987 - INFO - ETL job completed in 2.606079 seconds
+2025-09-18 16:17:10,793 - INFO - ETL job started at 2025-09-18 16:17:10.793280
+2025-09-18 16:17:10,794 - INFO - [2025-09-18 16:17:10.793280] Starting PyFinance FX extraction...
+2025-09-18 16:17:13,378 - INFO - FX data extracted successfully and written to fx_rates.csv
+2025-09-18 16:17:13,379 - INFO - ETL job completed in 2.586343 seconds
+2025-09-18 16:18:24,377 - INFO - ETL job started at 2025-09-18 16:18:24.377526
+2025-09-18 16:18:24,378 - INFO - [2025-09-18 16:18:24.378527] Starting PyFinance FX extraction...
+2025-09-18 16:18:24,379 - ERROR - Error extracting FX rates from PyFinance: 'PyFinanceExtractor' object is not iterable
+2025-09-18 16:18:24,379 - INFO - ETL job completed in 0.002005 seconds
+2025-09-18 16:20:08,622 - INFO - ETL job started at 2025-09-18 16:20:08.622117
+2025-09-18 16:20:08,623 - INFO - [2025-09-18 16:20:08.623117] Starting PyFinance FX extraction...
+2025-09-18 16:20:08,624 - ERROR - Error extracting FX rates from PyFinance: 'PyFinanceExtractor' object is not iterable
+2025-09-18 16:20:08,624 - INFO - ETL job completed in 0.001998 seconds
+2025-09-18 16:20:50,251 - INFO - ETL job started at 2025-09-18 16:20:50.251100
+2025-09-18 16:20:50,252 - INFO - [2025-09-18 16:20:50.252099] Starting PyFinance FX extraction...
+2025-09-18 16:20:50,252 - ERROR - Error extracting FX rates from PyFinance: 'PyFinanceExtractor' object is not iterable
+2025-09-18 16:20:50,252 - INFO - ETL job completed in 0.000999 seconds
+2025-09-18 16:22:39,213 - INFO - ETL job started at 2025-09-18 16:22:39.213377
+2025-09-18 16:22:39,214 - INFO - [2025-09-18 16:22:39.214379] Starting PyFinance FX extraction...
+2025-09-18 16:22:39,215 - ERROR - Error extracting FX rates from PyFinance: 'PyFinanceExtractor' object is not iterable
+2025-09-18 16:22:39,216 - INFO - ETL job completed in 0.002274 seconds
+2025-09-18 16:23:52,755 - INFO - ETL job started at 2025-09-18 16:23:52.755976
+2025-09-18 16:23:52,755 - INFO - [2025-09-18 16:23:52.755976] Starting PyFinance FX extraction...
+2025-09-18 16:23:55,517 - INFO - ETL job completed in 2.760167 seconds
+2025-09-18 16:24:12,254 - INFO - ETL job started at 2025-09-18 16:24:12.254905
+2025-09-18 16:24:12,256 - INFO - [2025-09-18 16:24:12.256178] Starting PyFinance FX extraction...
+2025-09-18 16:24:14,830 - ERROR - Error extracting FX rates from PyFinance: 'list' object has no attribute 'to_csv'
+2025-09-18 16:24:14,830 - INFO - ETL job completed in 2.575866 seconds
+2025-09-18 16:25:05,254 - INFO - ETL job started at 2025-09-18 16:25:05.254371
+2025-09-18 16:25:05,255 - INFO - [2025-09-18 16:25:05.255371] Starting PyFinance FX extraction...
+2025-09-18 16:25:07,942 - INFO - ETL job completed in 2.687857 seconds
+2025-09-18 16:27:06,294 - INFO - ETL job started at 2025-09-18 16:27:06.294708
+2025-09-18 16:27:06,294 - INFO - [2025-09-18 16:27:06.294708] Starting PyFinance FX extraction...
+2025-09-18 16:27:07,251 - ERROR - Error fetching EURUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:27:07,562 - ERROR - Error fetching GBPUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:27:07,829 - ERROR - Error fetching JPY=X: "['Adj Close'] not in index"
+2025-09-18 16:27:08,094 - ERROR - Error fetching AUDUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:27:08,373 - ERROR - Error fetching CADUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:27:08,648 - ERROR - Error fetching CHFUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:27:08,948 - ERROR - Error fetching NZDUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:27:08,954 - INFO - ETL job completed in 2.660064 seconds
+2025-09-18 16:27:33,604 - INFO - ETL job started at 2025-09-18 16:27:33.604446
+2025-09-18 16:27:33,604 - INFO - [2025-09-18 16:27:33.604446] Starting PyFinance FX extraction...
+2025-09-18 16:27:36,262 - INFO - ETL job completed in 2.657583 seconds
+2025-09-18 16:28:31,577 - INFO - ETL job started at 2025-09-18 16:28:31.576781
+2025-09-18 16:28:31,578 - INFO - [2025-09-18 16:28:31.578343] Starting PyFinance FX extraction...
+2025-09-18 16:28:32,549 - ERROR - Error fetching EURUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:28:32,881 - ERROR - Error fetching GBPUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:28:33,197 - ERROR - Error fetching JPY=X: "['Adj Close'] not in index"
+2025-09-18 16:28:33,483 - ERROR - Error fetching AUDUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:28:33,811 - ERROR - Error fetching CADUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:28:34,108 - ERROR - Error fetching CHFUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:28:34,405 - ERROR - Error fetching NZDUSD=X: "['Adj Close'] not in index"
+2025-09-18 16:28:34,411 - INFO - ETL job completed in 2.834312 seconds
+2025-09-18 16:29:11,057 - INFO - ETL job started at 2025-09-18 16:29:11.057734
+2025-09-18 16:29:11,058 - INFO - [2025-09-18 16:29:11.058322] Starting PyFinance FX extraction...
+2025-09-18 16:29:13,791 - INFO - ETL job completed in 2.73347 seconds
+2025-09-18 16:29:47,693 - INFO - ETL job started at 2025-09-18 16:29:47.693486
+2025-09-18 16:29:47,694 - INFO - [2025-09-18 16:29:47.693486] Starting PyFinance FX extraction...
+2025-09-18 16:29:50,440 - INFO - ETL job completed in 2.746857 seconds
+2025-09-18 16:31:58,665 - INFO - ETL job started at 2025-09-18 16:31:58.665382
+2025-09-18 16:31:58,666 - INFO - [2025-09-18 16:31:58.666382] Starting PyFinance FX extraction...
+2025-09-18 16:31:58,666 - ERROR - Error extracting FX rates from PyFinance: 'PyFinanceExtractor' object has no attribute 'fetch_fx_rates'
+2025-09-18 16:31:58,667 - INFO - ETL job completed in 0.00201 seconds
+2025-09-18 16:32:08,511 - INFO - ETL job started at 2025-09-18 16:32:08.511162
+2025-09-18 16:32:08,511 - INFO - [2025-09-18 16:32:08.511162] Starting PyFinance FX extraction...
+2025-09-18 16:32:08,512 - ERROR - Error extracting FX rates from PyFinance: 'PyFinanceExtractor' object is not iterable
+2025-09-18 16:32:08,512 - INFO - ETL job completed in 0.001444 seconds
+2025-09-18 16:33:18,929 - INFO - ETL job started at 2025-09-18 16:33:18.928729
+2025-09-18 16:33:18,929 - INFO - [2025-09-18 16:33:18.929729] Starting PyFinance FX extraction...
+2025-09-18 16:33:22,463 - INFO - ETL job completed in 3.534661 seconds
+2025-09-18 16:34:12,826 - INFO - ETL job started at 2025-09-18 16:34:12.826008
+2025-09-18 16:34:12,827 - INFO - [2025-09-18 16:34:12.827020] Starting PyFinance FX extraction...
+2025-09-18 16:34:18,203 - INFO - ETL job completed in 5.377173 seconds
+2025-09-18 16:38:53,372 - INFO - ETL job started at 2025-09-18 16:38:53.372629
+2025-09-18 16:38:53,373 - INFO - [2025-09-18 16:38:53.373358] Starting PyFinance FX extraction...
+2025-09-18 16:40:35,539 - INFO - ETL job started at 2025-09-18 16:40:35.539377
+2025-09-18 16:40:35,540 - INFO - [2025-09-18 16:40:35.540449] Starting PyFinance FX extraction...
+2025-09-18 16:41:49,410 - INFO - ETL job started at 2025-09-18 16:41:49.410563
+2025-09-18 16:41:49,410 - INFO - [2025-09-18 16:41:49.410563] Starting PyFinance FX extraction...
+2025-09-18 16:43:30,952 - INFO - ETL job started at 2025-09-18 16:43:30.952800
+2025-09-18 16:43:30,953 - INFO - [2025-09-18 16:43:30.953800] Starting PyFinance FX extraction...
+2025-09-18 16:43:34,697 - INFO - ETL job completed in 3.744834 seconds
+2025-09-18 16:43:52,845 - INFO - ETL job started at 2025-09-18 16:43:52.845380
+2025-09-18 16:43:52,846 - INFO - [2025-09-18 16:43:52.846380] Starting PyFinance FX extraction...
+2025-09-18 16:43:53,320 - INFO - ETL job completed in 0.475265 seconds
+2025-09-18 16:44:44,865 - INFO - ETL job started at 2025-09-18 16:44:44.864285
+2025-09-18 16:44:44,865 - INFO - [2025-09-18 16:44:44.865708] Starting PyFinance FX extraction...
+2025-09-18 16:44:45,342 - INFO - ETL job completed in 0.478631 seconds
+2025-09-18 18:53:50,340 - INFO - ETL job started at 2025-09-18 18:53:50.340725
+2025-09-18 18:53:50,341 - INFO - [2025-09-18 18:53:50.341703] Starting PyFinance FX extraction...
+2025-09-18 18:53:53,586 - INFO - ETL job completed in 3.245376 seconds
+2025-09-18 19:06:53,276 - INFO - ETL job started at 2025-09-18 19:06:53.276187
+2025-09-18 19:06:53,277 - INFO - [2025-09-18 19:06:53.277337] Starting PyFinance FX extraction...
+2025-09-18 19:06:53,277 - ERROR - Error extracting FX rates from PyFinance: 'Logger' object has no attribute 'error'
+2025-09-18 19:06:53,278 - INFO - ETL job completed in 0.002146 seconds
+2025-09-18 19:07:05,353 - INFO - ETL job started at 2025-09-18 19:07:05.353507
+2025-09-18 19:07:05,353 - INFO - [2025-09-18 19:07:05.353507] Starting PyFinance FX extraction...
+2025-09-18 19:07:05,354 - ERROR - Error fetching exchange rates: TDClient.exchange_rate() takes 1 positional argument but 2 were given
+2025-09-18 19:07:05,354 - INFO - ETL job completed in 0.001003 seconds
+2025-09-18 19:09:01,220 - INFO - ETL job started at 2025-09-18 19:09:01.220416
+2025-09-18 19:09:01,221 - INFO - [2025-09-18 19:09:01.221450] Starting PyFinance FX extraction...
+2025-09-18 19:09:01,221 - ERROR - Error fetching exchange rates: ExchangeRateEndpoint.__init__() got an unexpected keyword argument 'defaults'
+2025-09-18 19:09:01,222 - INFO - ETL job completed in 0.002046 seconds
+2025-09-18 19:09:21,342 - INFO - ETL job started at 2025-09-18 19:09:21.342697
+2025-09-18 19:09:21,343 - INFO - [2025-09-18 19:09:21.343701] Starting PyFinance FX extraction...
+2025-09-18 19:09:21,482 - ERROR - Error fetching exchange rates: There is an error in the query. Please check your query and try again. If you're unable to resolve it contact our support at https://twelvedata.com/contact/customer
+2025-09-18 19:09:21,483 - INFO - ETL job completed in 0.140663 seconds
+2025-09-18 19:11:44,854 - INFO - ETL job started at 2025-09-18 19:11:44.854643
+2025-09-18 19:11:44,855 - INFO - [2025-09-18 19:11:44.855628] Starting PyFinance FX extraction...
+2025-09-18 19:11:44,966 - INFO - ETL job completed in 0.112128 seconds
+2025-09-18 19:14:58,323 - INFO - ETL job started at 2025-09-18 19:14:58.323251
+2025-09-18 19:14:58,324 - INFO - [2025-09-18 19:14:58.324235] Starting PyFinance FX extraction...
+2025-09-18 19:14:59,257 - INFO - ETL job completed in 0.934397 seconds
+2025-09-18 19:15:13,422 - INFO - ETL job started at 2025-09-18 19:15:13.422182
+2025-09-18 19:15:13,423 - INFO - [2025-09-18 19:15:13.423184] Starting PyFinance FX extraction...
+2025-09-18 19:15:14,311 - INFO - ETL job completed in 0.889693 seconds
+2025-09-18 19:20:20,133 - INFO - ETL job started at 2025-09-18 19:20:20.133834
+2025-09-18 19:20:20,134 - INFO - [2025-09-18 19:20:20.134834] Starting PyFinance FX extraction...
+2025-09-18 19:20:20,785 - ERROR - Error adding exchange rate: 'timestamp' is an invalid keyword argument for ExchangeRates
+2025-09-18 19:20:20,786 - ERROR - Error extracting FX rates from PyFinance: 'timestamp' is an invalid keyword argument for ExchangeRates
+2025-09-18 19:20:20,786 - INFO - ETL job completed in 0.652664 seconds
+2025-09-18 19:21:34,142 - INFO - ETL job started at 2025-09-18 19:21:34.142610
+2025-09-18 19:21:34,143 - INFO - [2025-09-18 19:21:34.143612] Starting PyFinance FX extraction...
+2025-09-18 19:21:34,642 - INFO - Inserted 4 exchange rates from TwelveData
+2025-09-18 19:21:34,642 - INFO - ETL job completed in 0.499944 seconds
+2025-09-18 19:29:33,833 - INFO - ETL job started at 2025-09-18 19:29:33.832954
+2025-09-18 19:29:33,834 - INFO - [2025-09-18 19:29:33.834509] Starting PyFinance FX extraction...
+2025-09-18 19:29:34,397 - INFO - Inserted 4 exchange rates from TwelveData
+2025-09-18 19:29:34,398 - INFO - ETL job completed in 0.565846 seconds
+2025-09-18 19:29:51,958 - INFO - ETL job started at 2025-09-18 19:29:51.958121
+2025-09-18 19:29:51,959 - INFO - [2025-09-18 19:29:51.959123] Starting PyFinance FX extraction...
+2025-09-18 19:29:52,483 - INFO - Inserted 4 exchange rates from TwelveData
+2025-09-18 19:29:52,484 - INFO - ETL job completed in 0.526665 seconds

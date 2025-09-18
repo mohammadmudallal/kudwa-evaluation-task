@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine, text
 from sqlalchemy.orm import sessionmaker
 from dotenv import load_dotenv
-from utils.config.db.models import Base
+from utils.config.db.models import Base, Company
 import os
 
 load_dotenv()
@@ -24,3 +24,23 @@ Base.metadata.create_all(engine)
 
 Session = sessionmaker(bind=engine)
 session = Session()
+
+def seed_companies():
+    companies = [
+        {"symbol": "AAPL", "name": "Apple"},
+        # {"symbol": "MSFT", "name": "Microsoft"},
+        # {"symbol": "GOOGL", "name": "Alphabet"},
+    ]
+
+    for data in companies:
+        existing = session.query(Company).filter_by(symbol=data["symbol"]).first()
+        if not existing:
+            company = Company(symbol=data["symbol"], name=data["name"])
+            session.add(company)
+            print(f"Inserted {data['symbol']} - {data['name']}")
+        else:
+            print(f"Skipped {data['symbol']} (already exists)")
+
+    session.commit()
+    
+seed_companies()
