@@ -1,0 +1,490 @@
+[2025-09-19T06:52:14.354+0000] {processor.py:186} INFO - Started process (PID=124) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:52:14.355+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:52:14.358+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:52:14.358+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:52:14.373+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:52:14.614+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:52:14.614+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:52:14.638+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:52:14.638+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:52:14.672+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.328 seconds
+[2025-09-19T06:52:45.683+0000] {processor.py:186} INFO - Started process (PID=186) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:52:45.684+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:52:45.688+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:52:45.687+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:52:45.702+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:52:45.779+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:52:45.779+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:52:45.802+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:52:45.802+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:52:45.831+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.157 seconds
+[2025-09-19T06:53:16.695+0000] {processor.py:186} INFO - Started process (PID=248) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:53:16.697+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:53:16.701+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:53:16.700+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:53:16.716+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:53:16.798+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:53:16.798+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:53:16.825+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:53:16.825+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:53:16.858+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.172 seconds
+[2025-09-19T06:53:47.833+0000] {processor.py:186} INFO - Started process (PID=310) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:53:47.835+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:53:47.838+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:53:47.838+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:53:47.853+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:53:47.937+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:53:47.937+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:53:47.963+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:53:47.963+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:53:47.995+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.171 seconds
+[2025-09-19T06:54:19.108+0000] {processor.py:186} INFO - Started process (PID=373) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:54:19.110+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:54:19.113+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:54:19.113+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:54:19.129+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:54:19.218+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:54:19.217+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:54:19.244+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:54:19.243+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:54:19.275+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.177 seconds
+[2025-09-19T06:54:49.732+0000] {processor.py:186} INFO - Started process (PID=435) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:54:49.734+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:54:49.737+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:54:49.737+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:54:49.752+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:54:49.836+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:54:49.835+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:54:49.862+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:54:49.862+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:54:49.895+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.173 seconds
+[2025-09-19T06:55:20.583+0000] {processor.py:186} INFO - Started process (PID=503) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:55:20.585+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:55:20.589+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:55:20.588+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:55:20.603+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:55:20.689+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:55:20.688+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:55:20.714+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:55:20.713+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:55:20.746+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.172 seconds
+[2025-09-19T06:55:51.992+0000] {processor.py:186} INFO - Started process (PID=565) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:55:51.994+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:55:51.998+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:55:51.997+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:55:52.013+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:55:52.093+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:55:52.093+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:55:52.118+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:55:52.118+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:55:52.149+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.169 seconds
+[2025-09-19T06:56:22.550+0000] {processor.py:186} INFO - Started process (PID=627) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:56:22.552+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:56:22.556+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:56:22.555+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:56:22.572+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:56:22.660+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:56:22.660+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:56:22.689+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:56:22.689+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:56:22.721+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.181 seconds
+[2025-09-19T06:56:53.414+0000] {processor.py:186} INFO - Started process (PID=690) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:56:53.416+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:56:53.420+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:56:53.419+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:56:53.435+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:56:53.520+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:56:53.519+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:56:53.547+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:56:53.547+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:56:53.578+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.173 seconds
+[2025-09-19T06:57:23.955+0000] {processor.py:186} INFO - Started process (PID=752) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:57:23.957+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:57:23.960+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:57:23.960+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:57:23.975+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:57:24.061+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:57:24.061+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:57:24.088+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:57:24.088+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:57:24.121+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.175 seconds
+[2025-09-19T06:57:55.361+0000] {processor.py:186} INFO - Started process (PID=814) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:57:55.363+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:57:55.366+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:57:55.366+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:57:55.382+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:57:55.464+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:57:55.464+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:57:55.490+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:57:55.489+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:57:55.521+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.169 seconds
+[2025-09-19T06:58:25.971+0000] {processor.py:186} INFO - Started process (PID=876) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:58:25.972+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:58:25.976+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:58:25.975+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:58:25.992+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:58:26.076+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:58:26.076+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:58:26.102+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:58:26.102+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:58:26.134+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.173 seconds
+[2025-09-19T06:58:57.042+0000] {processor.py:186} INFO - Started process (PID=938) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:58:57.044+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:58:57.047+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:58:57.047+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:58:57.063+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:58:57.154+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:58:57.153+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:58:57.183+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:58:57.182+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:58:57.217+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.185 seconds
+[2025-09-19T06:59:27.922+0000] {processor.py:186} INFO - Started process (PID=1000) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:59:27.924+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:59:27.928+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:59:27.927+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:59:27.944+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:59:28.032+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:59:28.032+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:59:28.061+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:59:28.060+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:59:28.094+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.182 seconds
+[2025-09-19T06:59:59.023+0000] {processor.py:186} INFO - Started process (PID=1068) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:59:59.025+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T06:59:59.028+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:59:59.028+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:59:59.044+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T06:59:59.129+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:59:59.128+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T06:59:59.154+0000] {logging_mixin.py:190} INFO - [2025-09-19T06:59:59.154+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T06:59:59.188+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.175 seconds
+[2025-09-19T07:00:29.885+0000] {processor.py:186} INFO - Started process (PID=1130) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:00:29.887+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:00:29.891+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:00:29.890+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:00:29.906+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:00:29.991+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:00:29.990+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:00:30.017+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:00:30.016+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:00:30.048+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.173 seconds
+[2025-09-19T07:01:00.412+0000] {processor.py:186} INFO - Started process (PID=1192) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:01:00.413+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:01:00.417+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:01:00.416+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:01:00.433+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:01:00.517+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:01:00.517+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:01:00.550+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:01:00.550+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:01:00.581+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.179 seconds
+[2025-09-19T07:01:31.111+0000] {processor.py:186} INFO - Started process (PID=1254) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:01:31.112+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:01:31.116+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:01:31.115+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:01:31.131+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:01:31.216+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:01:31.216+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:01:31.243+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:01:31.243+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:01:31.279+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.178 seconds
+[2025-09-19T07:02:01.442+0000] {processor.py:186} INFO - Started process (PID=1315) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:02:01.443+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:02:01.446+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:02:01.446+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:02:01.461+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:02:01.547+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:02:01.546+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:02:01.577+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:02:01.577+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:02:01.616+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.183 seconds
+[2025-09-19T07:02:32.011+0000] {processor.py:186} INFO - Started process (PID=1377) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:02:32.013+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:02:32.016+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:02:32.016+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:02:32.031+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:02:32.116+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:02:32.115+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:02:32.142+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:02:32.142+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:02:32.175+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.172 seconds
+[2025-09-19T07:03:02.715+0000] {processor.py:186} INFO - Started process (PID=1439) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:03:02.717+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:03:02.720+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:03:02.720+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:03:02.735+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:03:02.819+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:03:02.819+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:03:02.845+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:03:02.845+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:03:02.879+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.173 seconds
+[2025-09-19T07:03:33.452+0000] {processor.py:186} INFO - Started process (PID=1501) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:03:33.453+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:03:33.458+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:03:33.458+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:03:33.476+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:03:33.569+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:03:33.568+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:03:33.598+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:03:33.598+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:03:33.633+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.192 seconds
+[2025-09-19T07:04:04.064+0000] {processor.py:186} INFO - Started process (PID=1563) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:04:04.066+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:04:04.071+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:04:04.070+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:04:04.089+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:04:04.181+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:04:04.180+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:04:04.212+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:04:04.212+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:04:04.245+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.193 seconds
+[2025-09-19T07:04:34.609+0000] {processor.py:186} INFO - Started process (PID=1625) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:04:34.611+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:04:34.614+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:04:34.614+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:04:34.630+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:04:34.721+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:04:34.720+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:04:34.750+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:04:34.750+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:04:34.785+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.185 seconds
+[2025-09-19T07:05:05.508+0000] {processor.py:186} INFO - Started process (PID=1693) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:05:05.509+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:05:05.513+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:05:05.512+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:05:05.528+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:05:05.613+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:05:05.612+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:05:05.638+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:05:05.638+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:05:05.670+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.171 seconds
+[2025-09-19T07:05:36.238+0000] {processor.py:186} INFO - Started process (PID=1755) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:05:36.240+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:05:36.243+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:05:36.243+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:05:36.258+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:05:36.346+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:05:36.346+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:05:36.372+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:05:36.372+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:05:36.406+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.177 seconds
+[2025-09-19T07:06:06.677+0000] {processor.py:186} INFO - Started process (PID=1816) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:06:06.679+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:06:06.683+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:06:06.683+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:06:06.699+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:06:06.782+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:06:06.782+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:06:06.809+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:06:06.808+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:06:06.841+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.174 seconds
+[2025-09-19T07:06:37.008+0000] {processor.py:186} INFO - Started process (PID=1878) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:06:37.010+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:06:37.013+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:06:37.013+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:06:37.029+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:06:37.115+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:06:37.114+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:06:37.142+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:06:37.141+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:06:37.175+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.176 seconds
+[2025-09-19T07:07:07.573+0000] {processor.py:186} INFO - Started process (PID=1940) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:07:07.575+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:07:07.578+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:07:07.578+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:07:07.593+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:07:07.677+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:07:07.677+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:07:07.706+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:07:07.706+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:07:07.743+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.179 seconds
+[2025-09-19T07:07:38.306+0000] {processor.py:186} INFO - Started process (PID=2002) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:07:38.308+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:07:38.312+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:07:38.312+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:07:38.330+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:07:38.429+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:07:38.428+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:07:38.459+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:07:38.458+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:07:38.493+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.199 seconds
+[2025-09-19T07:08:08.597+0000] {processor.py:186} INFO - Started process (PID=2064) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:08:08.599+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:08:08.603+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:08:08.602+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:08:08.617+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:08:08.701+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:08:08.700+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:08:08.728+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:08:08.727+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:08:08.760+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.172 seconds
+[2025-09-19T07:08:39.076+0000] {processor.py:186} INFO - Started process (PID=2126) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:08:39.078+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:08:39.082+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:08:39.082+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:08:39.098+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:08:39.181+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:08:39.180+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:08:39.208+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:08:39.208+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:08:39.241+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.174 seconds
+[2025-09-19T07:09:09.724+0000] {processor.py:186} INFO - Started process (PID=2188) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:09:09.725+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:09:09.729+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:09:09.728+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:09:09.744+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:09:09.829+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:09:09.829+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:09:09.860+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:09:09.860+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:09:09.894+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.179 seconds
+[2025-09-19T07:09:41.065+0000] {processor.py:186} INFO - Started process (PID=2250) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:09:41.067+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:09:41.070+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:09:41.070+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:09:41.086+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:09:41.168+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:09:41.168+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:09:41.194+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:09:41.194+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:09:41.229+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.174 seconds
+[2025-09-19T07:10:12.879+0000] {processor.py:186} INFO - Started process (PID=2318) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:10:12.881+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:10:12.885+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:10:12.884+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:10:12.899+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:10:12.985+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:10:12.985+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:10:13.014+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:10:13.014+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:10:13.047+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.177 seconds
+[2025-09-19T07:10:43.304+0000] {processor.py:186} INFO - Started process (PID=2381) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:10:43.306+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:10:43.310+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:10:43.309+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:10:43.325+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:10:43.410+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:10:43.410+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:10:43.437+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:10:43.436+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:10:43.468+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.173 seconds
+[2025-09-19T07:11:13.746+0000] {processor.py:186} INFO - Started process (PID=2442) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:11:13.748+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:11:13.752+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:11:13.751+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:11:13.768+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:11:13.852+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:11:13.852+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:11:13.878+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:11:13.878+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:11:13.910+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.174 seconds
+[2025-09-19T07:11:45.070+0000] {processor.py:186} INFO - Started process (PID=2504) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:11:45.071+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:11:45.075+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:11:45.075+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:11:45.090+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:11:45.173+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:11:45.173+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:11:45.199+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:11:45.199+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:11:45.232+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.172 seconds
+[2025-09-19T07:12:16.437+0000] {processor.py:186} INFO - Started process (PID=2566) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:12:16.438+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:12:16.442+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:12:16.442+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:12:16.458+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:12:16.543+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:12:16.543+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:12:16.570+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:12:16.570+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:12:16.604+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.177 seconds
+[2025-09-19T07:12:48.220+0000] {processor.py:186} INFO - Started process (PID=2628) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:12:48.222+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:12:48.225+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:12:48.225+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:12:48.241+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:12:48.325+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:12:48.325+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:12:48.355+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:12:48.355+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:12:48.390+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.180 seconds
+[2025-09-19T07:13:18.738+0000] {processor.py:186} INFO - Started process (PID=2690) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:13:18.739+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:13:18.743+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:13:18.742+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:13:18.757+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:13:18.840+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:13:18.840+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:13:18.867+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:13:18.866+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:13:18.902+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.174 seconds
+[2025-09-19T07:13:49.331+0000] {processor.py:186} INFO - Started process (PID=2752) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:13:49.333+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:13:49.337+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:13:49.336+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:13:49.352+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:13:49.436+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:13:49.436+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:13:49.462+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:13:49.462+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:13:49.496+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.175 seconds
+[2025-09-19T07:14:20.076+0000] {processor.py:186} INFO - Started process (PID=2820) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:14:20.078+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:14:20.081+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:14:20.081+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:14:20.097+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:14:20.179+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:14:20.179+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:14:20.205+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:14:20.205+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:14:20.238+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.171 seconds
+[2025-09-19T07:14:50.596+0000] {processor.py:186} INFO - Started process (PID=2882) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:14:50.598+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:14:50.602+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:14:50.602+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:14:50.618+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:14:50.704+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:14:50.703+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:14:50.736+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:14:50.736+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:14:50.770+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.185 seconds
+[2025-09-19T07:15:21.943+0000] {processor.py:186} INFO - Started process (PID=2944) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:15:21.944+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:15:21.948+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:15:21.947+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:15:21.964+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:15:22.046+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:15:22.046+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:15:22.073+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:15:22.072+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:15:22.104+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.171 seconds
+[2025-09-19T07:15:52.493+0000] {processor.py:186} INFO - Started process (PID=3006) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:15:52.495+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:15:52.498+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:15:52.498+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:15:52.517+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:15:52.602+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:15:52.602+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:15:52.629+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:15:52.629+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:15:52.662+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.178 seconds
+[2025-09-19T07:16:22.902+0000] {processor.py:186} INFO - Started process (PID=3068) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:16:22.903+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:16:22.907+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:16:22.906+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:16:22.925+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:16:23.006+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:16:23.006+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:16:23.033+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:16:23.032+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:16:23.065+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.173 seconds
+[2025-09-19T07:16:53.846+0000] {processor.py:186} INFO - Started process (PID=3130) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:16:53.847+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:16:53.851+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:16:53.850+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:16:53.866+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:16:53.950+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:16:53.950+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:16:53.978+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:16:53.978+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:16:54.009+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.172 seconds
+[2025-09-19T07:17:24.612+0000] {processor.py:186} INFO - Started process (PID=3192) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:17:24.613+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:17:24.617+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:17:24.616+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:17:24.632+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:17:24.725+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:17:24.725+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:17:24.752+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:17:24.751+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:17:24.786+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.184 seconds
+[2025-09-19T07:17:55.493+0000] {processor.py:186} INFO - Started process (PID=3254) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:17:55.494+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:17:55.498+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:17:55.497+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:17:55.513+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:17:55.597+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:17:55.596+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:17:55.622+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:17:55.622+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:17:55.655+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.172 seconds
+[2025-09-19T07:18:26.677+0000] {processor.py:186} INFO - Started process (PID=3316) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:18:26.679+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:18:26.683+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:18:26.682+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:18:26.699+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:18:26.784+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:18:26.784+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:18:26.814+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:18:26.813+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:18:26.845+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.181 seconds
+[2025-09-19T07:18:57.232+0000] {processor.py:186} INFO - Started process (PID=3384) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:18:57.234+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:18:57.237+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:18:57.237+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:18:57.253+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:18:57.341+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:18:57.340+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:18:57.365+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:18:57.365+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:18:57.400+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.177 seconds
+[2025-09-19T07:19:27.784+0000] {processor.py:186} INFO - Started process (PID=3446) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:19:27.786+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:19:27.790+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:19:27.789+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:19:27.804+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:19:27.888+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:19:27.888+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:19:27.914+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:19:27.914+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:19:27.947+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.172 seconds
+[2025-09-19T07:19:58.181+0000] {processor.py:186} INFO - Started process (PID=3509) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:19:58.183+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:19:58.186+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:19:58.186+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:19:58.202+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:19:58.285+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:19:58.285+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:19:58.311+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:19:58.311+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:19:58.341+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.170 seconds
+[2025-09-19T07:20:30.067+0000] {processor.py:186} INFO - Started process (PID=3570) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:20:30.069+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:20:30.072+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:20:30.072+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:20:30.088+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:20:30.182+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:20:30.182+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:20:30.209+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:20:30.209+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:20:30.244+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.187 seconds
+[2025-09-19T07:21:00.349+0000] {processor.py:186} INFO - Started process (PID=3631) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:21:00.351+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:21:00.354+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:21:00.354+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:21:00.370+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:21:00.454+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:21:00.454+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:21:00.481+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:21:00.480+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:21:00.512+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.172 seconds
+[2025-09-19T07:21:30.827+0000] {processor.py:186} INFO - Started process (PID=3693) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:21:30.829+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:21:30.833+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:21:30.832+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:21:30.849+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:21:30.938+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:21:30.938+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:21:30.964+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:21:30.964+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:21:30.996+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.178 seconds
+[2025-09-19T07:22:02.031+0000] {processor.py:186} INFO - Started process (PID=3756) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:22:02.033+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:22:02.036+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:22:02.036+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:22:02.051+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:22:02.132+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:22:02.131+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:22:02.158+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:22:02.157+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:22:02.192+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.170 seconds
+[2025-09-19T07:22:33.899+0000] {processor.py:186} INFO - Started process (PID=3818) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:22:33.901+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:22:33.905+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:22:33.905+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:22:33.921+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:22:34.008+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:22:34.008+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:22:34.035+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:22:34.034+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:22:34.066+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.177 seconds
+[2025-09-19T07:23:05.391+0000] {processor.py:186} INFO - Started process (PID=3880) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:23:05.392+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:23:05.396+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:23:05.395+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:23:05.413+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:23:05.506+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:23:05.505+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:23:05.783+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:23:05.783+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:23:05.814+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.433 seconds
+[2025-09-19T07:23:36.716+0000] {processor.py:186} INFO - Started process (PID=3948) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:23:36.718+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:23:36.721+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:23:36.720+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:23:36.736+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:23:36.817+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:23:36.816+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:23:36.843+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:23:36.843+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:23:36.875+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.168 seconds
+[2025-09-19T07:24:07.146+0000] {processor.py:186} INFO - Started process (PID=4010) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:24:07.147+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:24:07.151+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:24:07.150+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:24:07.166+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:24:07.245+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:24:07.245+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:24:07.273+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:24:07.272+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:24:07.306+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.169 seconds
+[2025-09-19T07:24:37.402+0000] {processor.py:186} INFO - Started process (PID=4072) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:24:37.403+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:24:37.407+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:24:37.406+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:24:37.422+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:24:37.509+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:24:37.509+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:24:37.539+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:24:37.538+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:24:37.572+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.178 seconds
+[2025-09-19T07:25:07.832+0000] {processor.py:186} INFO - Started process (PID=4134) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:25:07.833+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:25:07.837+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:25:07.837+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:25:07.857+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:25:07.941+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:25:07.941+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:25:07.972+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:25:07.971+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:25:08.004+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.182 seconds
+[2025-09-19T07:25:38.270+0000] {processor.py:186} INFO - Started process (PID=4196) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:25:38.271+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:25:38.275+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:25:38.274+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:25:38.290+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:25:38.374+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:25:38.374+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:25:38.402+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:25:38.401+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:25:38.434+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.173 seconds
+[2025-09-19T07:26:08.839+0000] {processor.py:186} INFO - Started process (PID=4258) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:26:08.841+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:26:08.846+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:26:08.845+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:26:08.862+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:26:08.951+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:26:08.951+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:26:08.979+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:26:08.979+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:26:09.014+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.186 seconds
+[2025-09-19T07:26:39.527+0000] {processor.py:186} INFO - Started process (PID=4320) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:26:39.528+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:26:39.532+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:26:39.532+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:26:39.548+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:26:39.631+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:26:39.630+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:26:39.658+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:26:39.657+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:26:39.691+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.174 seconds
+[2025-09-19T07:27:10.126+0000] {processor.py:186} INFO - Started process (PID=4382) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:27:10.127+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:27:10.131+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:27:10.130+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:27:10.147+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:27:10.236+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:27:10.235+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:27:10.264+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:27:10.264+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:27:10.297+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.181 seconds
+[2025-09-19T07:27:40.572+0000] {processor.py:186} INFO - Started process (PID=4444) to work on /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:27:40.574+0000] {processor.py:914} INFO - Processing file /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-19T07:27:40.578+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:27:40.577+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:27:40.593+0000] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-19T07:27:40.676+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:27:40.675+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-19T07:27:40.702+0000] {logging_mixin.py:190} INFO - [2025-09-19T07:27:40.702+0000] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-19T07:27:40.736+0000] {processor.py:208} INFO - Processing /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.173 seconds
